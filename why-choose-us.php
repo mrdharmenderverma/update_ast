@@ -90,8 +90,8 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4 mb-lg-0 mb-xl-0">
-                <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+            <div class="col-lg-4 mb-lg-0 mb-xl-0 mt-3">
+                <div class="rounded-3 p-3 border">
                     <div class="icon_content icon_centers text-center">
                         <div class="txt_content">
                             <img src="assets/images/home/experience.svg" alt="">
@@ -105,8 +105,8 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 mb-lg-0 mb-xl-0">
-                <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+            <div class="col-lg-4 mb-lg-0 mb-xl-0 mt-3">
+                <div class="rounded-3 p-3 border">
                     <div class="icon_content icon_centers text-center">
                         <div class="txt_content">
                             <img src="assets/images/home/Success.svg" alt="">
@@ -119,8 +119,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 mb-lg-0 mb-xl-0">
-                <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+            <div class="col-lg-4 mb-lg-0 mb-xl-0 mt-3">
+                <div class="rounded-3 p-3 border">
                     <div class="icon_content icon_centers text-center">
                         <div class="txt_content">
                             <img src="assets/images/home/Reliable.svg" alt="">

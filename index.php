@@ -117,6 +117,101 @@
             </div>
             <div class="row">
                 <div class="testimonial_sec position-relative style_v2_one">
+                    <!-- <div class="testimonial_box clearfix">
+                        <div class="authour_details">
+                            <div class="service_content icon_yes">
+                                <div class="row">
+                                    <div class="col-lg-10 col-md-12 col-sm-12">
+                                        <h3 class="title_service  mb-3">
+                                            Software Development
+                                        </h3>
+                                        <p class="short_desc ">
+                                            We are India's leading software development company since 2016. Our skilled professionals can provide scalable, secure, and reliable software solutions. We deliver the best custom solutions with recent IT advancements...
+                                        </p>
+                                        
+                                        <div class="mr_bottom_20"></div>
+                                        
+                                        <a href="software-develpment.php" rel="nofollow" class="theme-btn five">
+                                            View More<i class="icon-right-arrow"></i>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-2 col-md-12 col-sm-12 rounded-3 responsive_service_section" style="
+                                    text-align: -webkit-center;
+                                    background: var(--border-color-dark);
+                                  ">
+                                        <div class="text_box_inner">
+                                            <img src="assets/images/home/C Language.svg" alt="C Language" srcset="">
+                                            <p class="card-icon-name" style="font-size: 10px">
+                                                <a href="#" rel="bookmark">C Language</a>
+                                        </div>
+                                        <div class="text_box_inner">
+                                            <img src="assets/images/home/Python.svg" alt="Python" srcset="">
+                                            <p class="card-icon-name" style="font-size: 10px">
+                                                <a href="#" rel="bookmark">Python</a>
+                                        </div>
+                                        <div class="text_box_inner">
+                                            <img src="assets/images/home/Java.svg" alt="Java" srcset="">
+                                            <p class="card-icon-name" style="font-size: 10px">
+                                                <a href="#" rel="bookmark">Java</a>
+                                        </div>
+                                        <div class="text_box_inner">
+                                            <img src="assets/images/home/c.svg" alt="Go Language" srcset="">
+                                            <p class="card-icon-name" style="font-size: 10px">
+                                                <a href="#" rel="bookmark">C#</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="authour_details">
+                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
+                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
+                                    <h3 class="title_service  mb-3">
+                                        Mobile App Development
+                                    </h3>
+                                    <p class="short_desc ">
+                                        We provide professional mobile app development services. We aim to build Android & iOS applications that incredibly complement or swap web solutions. We have delivered around 150+ projects of mobile...
+                                    </p>
+                                    
+                                    <div class="mr_bottom_20"></div>
+                                    
+                                    <a href="mobile-app-development" rel="nofollow" class="theme-btn five">View More <i class="icon-right-arrow"></i></a>
+                                </div>
+                                <div class="col-md-4 col-sm-6" style="
+                                    padding: 20px 0px 0px;
+                                    text-align: -webkit-center;
+                                    background: var(--border-color-dark);
+                                    border-radius: 5px;
+                                    width: 23.333333% !important;
+                                  ">
+                                    <div class="text_box_inner">
+                                        <img src="assets/images/home/Android.svg" alt="Android App" srcset="" style="max-width: 31.67px; height: auto">
+                                        <p class="card-icon-name" style="font-size: 10px">
+                                            <a href="#" rel="bookmark">Android App</a>
+                                            </h6>
+                                    </div>
+                                    <div class="text_box_inner">
+                                        <img src="assets/images/home/iOS.svg" alt="IOS App" srcset="" style="max-width: 31.67px; height: auto">
+                                        <p class="card-icon-name" style="font-size: 10px">
+                                            <a href="#" rel="bookmark">IOS App</a>
+                                            </h6>
+                                    </div>
+                                    <div class="text_box_inner">
+                                        <img src="assets/images/home/Flutter.svg" alt="Flutter App" srcset="" style="max-width: 31.67px; height: auto">
+                                        <p class="card-icon-name" style="font-size: 10px">
+                                            <a href="#" rel="bookmark">Flutter App</a>
+                                            </h6>
+                                    </div>
+                                    <div class="text_box_inner">
+                                        <img src="assets/images/home/React.svg" alt="React App" srcset="" style="max-width: 31.67px; height: auto">
+                                        <p class="card-icon-name" style="font-size: 10px">
+                                            <a href="#" rel="bookmark">React App</a>
+                                            </h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
                     <div class="testimonial_box clearfix">
                         <div class="authour_details">
                             <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
@@ -499,7 +594,7 @@
                                     border-radius: 5px;
                                     width: 23.333333% !important;
                                   ">
-                                    
+
                                     <div class="text_box_inner">
                                         <img src="assets/images/home/Photoshop.svg" alt="Photoshop" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
@@ -552,25 +647,25 @@
                                     width: 23.333333% !important;
                                   ">
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/seo.png" alt="SEO" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/SEO Optimization.svg" alt="SEO" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">SEO</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/analytics.png" alt="Analytics" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Analysis.svg" alt="Analytics" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">Analytics</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/socail_marketing.png" alt="Social Media Marketing" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Social Media.svg" alt="Social Media Marketing" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Media Marketing</a>
+                                            <a href="#" rel="bookmark">Social Media</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/marketing.png" alt="Advertisement" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Advertisement.svg" alt="Advertisement" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">Advertisement</a>
                                             </h6>
@@ -840,11 +935,12 @@
         <div class="pd_bottom_80"></div>
         <div class="container">
             <div class="row mb-4">
-                <div class="col-lg-12">
+                <div class="col-lg-10 offset-lg-1">
                     <div class="title_all_box style_two text-center dark_color">
                         <div class="title_sections two">
                             <!-- <div class="before_title"> Effective Solutions</div> -->
                             <h2 class=" homeprocedure-stroke">How to Augment Your Team?</h2>
+                            <p class="fs-5 mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</p>
                         </div>
                     </div>
                 </div>
@@ -884,7 +980,6 @@
                             </p>
                         </div>
                     </div>
-
                 </div>
 
                 <div class="procedure__step my-3">
@@ -926,16 +1021,208 @@
                             </p>
                         </div>
                     </div>
-
-
                 </div>
             </div>
-
-
-
         </div>
     </section>
     <!-- ==Procedure-section  End -->
+
+    <section class=" style_one" style="padding: 50px 0;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-xl-6 col-lg-12">
+                    <div class="title_all_box style_one content_box_cn">
+                        <div class="title_sections ">
+                            <div class="content_box_cn style_one">
+                                <div class="txt_content">
+                                    <h2 class="">Industries we serve our services</h2>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-3 col-lg-3  col-sm-6 mb-xl-0">
+                    <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+                        <div class="icon_content icon_centers" style="height: 2rem;">
+                            <div class="industries_img">
+                                <img src="assets/images/icons/education.png" alt="" width="80%">
+                            </div>
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            </div>
+                            <div class="industries_content txt_content">
+                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Education</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-3 col-sm-6 mb-xl-0">
+                    <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+                        <div class="icon_content icon_centers" style="height: 2rem;">
+
+                            <div class="industries_img">
+                                <img src="assets/images/icons/finance.png" alt="" width="80%">
+                            </div>
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            </div>
+                            <div class="industries_content txt_content">
+                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Finance</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-3 mb-lg-0 mb-xl-0">
+                    <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+                        <div class="icon_content icon_centers" style="height: 2rem;">
+
+                            <div class="industries_img">
+                                <img src="assets/images/icons/gaming.png" alt="" width="80%">
+                            </div>
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            </div>
+                            <div class="industries_content txt_content">
+                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Gaming</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-3 mb-lg-0 mb-xl-0">
+                    <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+                        <div class="icon_content icon_centers" style="height: 2rem;">
+
+                            <div class="industries_img">
+                                <img src="assets/images/icons/healthcare.png" alt="" width="80%">
+                            </div>
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            </div>
+                            <div class="industries_content txt_content">
+                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Healthcare</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xl-3 col-lg-3 mb-lg-0 mb-xl-0">
+                    <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+                        <div class="icon_content icon_centers" style="height: 2rem;">
+
+                            <div class="industries_img">
+                                <img src="assets/images/icons/hitech.png" alt="" width="80%">
+                            </div>
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            </div>
+                            <div class="industries_content txt_content">
+                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Hitech</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-3 mb-lg-0 mb-xl-0">
+                    <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+                        <div class="icon_content icon_centers" style="height: 2rem;">
+
+                            <div class="industries_img">
+                                <img src="assets/images/icons/manufacturing.png" alt="" width="80%">
+                            </div>
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            </div>
+                            <div class="industries_content txt_content">
+                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Manufacturing</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-3 mb-lg-0 mb-xl-0">
+                    <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+                        <div class="icon_content icon_centers" style="height: 2rem;">
+                            <div class="industries_img">
+                                <img src="assets/images/icons/entertainment.png" alt="" width="80%">
+                            </div>
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            </div>
+                            <div class="industries_content txt_content">
+                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Entertainment</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-3 mb-lg-0 mb-xl-0">
+                    <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+                        <div class="icon_content icon_centers" style="height: 2rem;">
+                            <div class="industries_img">
+                                <img src="assets/images/icons/ecommerce.png" alt="" width="80%">
+                            </div>
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            </div>
+                            <div class="industries_content txt_content">
+                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Ecommerce</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xl-3 col-lg-3 mb-lg-0 mb-xl-0">
+                    <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+                        <div class="icon_content icon_centers" style="height: 2rem;">
+
+                            <div class="industries_img">
+                                <img src="assets/images/icons/telicom.png" alt="" width="80%">
+                            </div>
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            </div>
+                            <div class="industries_content txt_content">
+                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Tele-Commun</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-3 mb-lg-0 mb-xl-0">
+                    <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+                        <div class="icon_content icon_centers" style="height: 2rem;">
+
+                            <div class="industries_img">
+                                <img src="assets/images/icons/logistic.png" alt="" width="80%">
+                            </div>
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            </div>
+                            <div class="industries_content txt_content">
+                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Logistic</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 mb-lg-0 mb-xl-0">
+                    <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
+                        <div class="icon_content icon_centers" style="height: 2rem;">
+
+                            <div class="industries_img">
+                                <img src="assets/images/icons/travel.png" alt="" width="80%">
+                            </div>
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            </div>
+                            <div class="industries_content txt_content">
+                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Travel &amp; Hospitality
+                                </h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
     <style>
@@ -944,6 +1231,8 @@
 
         }
     </style>
+
+
 
 
     <!-- Process We Follow -->
@@ -956,7 +1245,6 @@
                 <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="title_all_box style_one light_color">
                         <div class="title_sections left">
-                            <!-- <div class="before_title">Our Services</div> -->
                             <h2 class=" homeprocess-stroke">Process we follow</h2>
                         </div>
                     </div>

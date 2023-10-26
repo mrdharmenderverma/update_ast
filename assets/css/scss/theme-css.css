@@ -1342,7 +1342,7 @@
   --primary-color-two: #282f3b;
   --primary-color-three: #2EC2F5;
   --color-white: #fff;
-  --primary-color-four: #fafcff;
+  --primary-color-four: #fafbfb;
   --primary-color-five: #1f2530;
   --text-color-dark: #4a4e56;
   --text-color-dark-two: #888888;
@@ -1464,7 +1464,7 @@ body {
   font-size: 18px;
   color: var(--text-color-dark);
   font-weight: 400;
-  background: var(--color-white) !important;
+  background: var(--primary-color-four) !important;
   width: 100%;
   height: 100%;
   -webkit-font-smoothing: antialiased !important;
@@ -19571,12 +19571,17 @@ header .flaticon-list {
 .testimonial_sec.style_v2_one .testimonial_box .authour_details {
   position: relative;
   padding: 30px 48px 20px 20px;
+  /* padding: 20px; */
   width: 50%;
   /* min-width: 50%; */
-  background: #ffffff0f;
-  margin-left: 10px;
+  background: var(--color-white);
+  border: 1px solid rgba(0, 17, 22, 0.10);
+  opacity: 0.9;
+  box-shadow: 0px 2px 4px 0px rgba(26, 60, 102, 0.03), 0px -2px 4px 0px rgba(26, 60, 102, 0.03);
+  /* margin-left: 10px;
+  margin-bottom: 10px; */
+  margin: 5px;
   border-radius: 10px;
-  margin-bottom: 10px;
 }
 .testimonial_sec.style_v2_one .testimonial_box .authour_details .b_image {
   position: relative;
@@ -19795,7 +19800,13 @@ header .flaticon-list {
   left: unset;
   right: -20px;
 }
-
+@media(max-width:1024px) {
+  .responsive_service_section{
+      display: flex !important;
+      gap: 2rem !important;
+      margin-top: 1rem !important;
+  }
+}
 /*---==========================================-----
 -----==================grid column for blog post and project ===============-----
 -----=========================================-----*/
