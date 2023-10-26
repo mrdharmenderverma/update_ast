@@ -1,0 +1,260 @@
+
+html {
+  line-height: 1.15;
+  /* 1 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+}
+
+html,
+body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+/**
+   * Remove the margin in all browsers.
+   */
+
+body {
+  margin: 0;
+}
+
+a {
+  background-color: transparent;
+}
+
+small {
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+img {
+  border-style: none;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  /* 1 */
+  font-size: 100%;
+  /* 1 */
+  line-height: 1.15;
+  /* 1 */
+  margin: 0;
+  /* 2 */
+}
+
+button,
+input {
+  /* 1 */
+  overflow: visible;
+}
+
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: button;
+}
+
+
+.btn-hover-my {
+  width: 200px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  /* margin: 20px; */
+  height: 55px;
+  text-align: center;
+  border: none;
+  background-size: 300% 100%;
+
+  border-radius: 10px;
+  -moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.btn-hover-my:hover {
+  background-position: 100% 0;
+  -moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+  color: #fff;
+}
+
+.btn-hover-my:focus {
+  outline: none;
+}
+
+.btn-hover-my.color-3, .read_more_btn {
+  background-image: linear-gradient(to right, #667eea, #764ba2, #6B8DD6, #8E37D7);
+  box-shadow: 0 4px 15px 0 rgba(116, 79, 168, 0.75);
+  padding: 12px 30px;
+}
+
+/* Gradient Css */
+.gradient-text {
+  background: var(--gradient, linear-gradient(309deg, #B96DF4 0%, #DE84DA 35.42%, rgba(155, 153, 254, 0.90) 70.04%, #5BBBD9 100%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+
+/*=========== h6 to p convert ========*/
+
+    .card-icon-name a{
+        color: #fff;
+    }
+
+
+/*-------Animation Css--------------*/
+img.vert-move {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+}
+img.vert-move {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+}
+@-webkit-keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+}
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+}
+
+
+
+
+/*tying css*/
+.typing h6{
+    width: 31ch;
+    border-right: 1px;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 2s steps(31, end), blink-caret 0.5s step-end infinite alternate;
+}
+
+
+/*css text filp*/
+.rotate span {
+    display: inline-flex;
+    animation: rotate 2s;
+}
+.nine span:nth-of-type(1) {
+    animation-delay: 0.2s;
+}
+.nine span:nth-of-type(2) {
+    animation-delay: 0.4s;
+}
+.nine span:nth-of-type(3) {
+    animation-delay: 0.6s;
+}
+.nine span:nth-of-type(4) {
+    animation-delay: 0.8s;
+}
+.nine span:nth-of-type(5) {
+    animation-delay: 1s;
+}
+.nine span:nth-of-type(6) {
+    animation-delay: 1.2s;
+}
+
+
+/*Css for Portfolio Develop on SideBar*/
+.devlope_inner_sidebar{
+    padding: 20px 0px; 
+    text-align: -webkit-center;
+    background: #ffffff1c;
+    border-radius: 5px;
+    width: 23.333333% !important;
+    height:19rem;
+}
+
+
+.bg-dark{
+    background-color: var(----footer-default-bgcolor);
+}
+
+/*---Heading text style -----------*/
+
+    .homeabout-stroke::before,
+    .homeservices-stroke::before,
+    .homeprocedure-stroke::before,
+    .homeprocess-stroke::before,
+    .homeportfolio-stroke::before,
+    .aboutleaders-stroke::before,
+    .careerjobs-stroke::before,
+    .portfoliowork-stroke::before,
+    .ourblogs-stroke::before,
+    .privacypolicy-stroke::before{
+        content: 'Avtar';
+        width:100%;
+        left:50%;
+        -webkit-text-stroke: 0.5px #fff;
+        -webkit-transform: translateX(-50%);
+        transform: translateX(-50%);
+        position: absolute;
+        font-size: 3.5rem;
+        bottom: 0;
+        -webkit-text-fill-color: transparent;
+        top: -1.7rem;
+        right: 0;
+        bottom: 0;
+        z-index: -1;
+        opacity: 0.2;
+    }
+    
+    .homeabout-stroke::before{
+        content:'About';
+    }
+    
+    .homeservices-stroke::before{
+        content:'Services';
+    }
+    .homeprocedure-stroke::before{
+        content:'Procedure';
+        font-size: 3.8rem;
+    }
+    .homeprocess-stroke::before{
+        content:'Process';
+    }
+    .homeportfolio-stroke::before{
+        content:'Portfolio';
+    }
+    .aboutleaders-stroke::before{
+        content:'Our Leaders';
+    }
+    .careerjobs-stroke::before{
+        content:'Jobs';
+    }
+    .portfoliowork-stroke::before{
+        content:'Portfolio';
+    }
+    .ourblogs-stroke::before{
+        content:'Blogs';
+    }
+    .privacypolicy-stroke::before{
+        content:'Privacy';
+    }
+    
+   
