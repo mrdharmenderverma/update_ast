@@ -3,46 +3,46 @@
 <!-- Header File -->
 <!--===============PAGE CONTENT ==============-->
 <div id="content" class="site-content">
-    <section class="single_banner style_one">
+    <section class="single_banner style_one" style="background-image: url(assets/images/sliders/slider-3-bg.svg);">
         <div class="container">
-            <div class="row d-flex align-items-center">
-                <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+            <div class="row d-flex align-items-center text-center">
+                <div class="col-lg-10 offset-lg-1">
                     <!--===============spacing==============-->
                     <!--<div class="pd_top_50"></div>-->
                     <!--===============spacing==============-->
-                    <div class="slider_content light_color typing">
-                        <h6 class="gradient-text">Powered by Shail International Group</h6>
+                    <div class="slider_content light_color">
+                        <!-- <h6 class="gradient-text">Powered by Shail International Group</h6> -->
                         <h1 class="">
-                            Reach for the stars with AST - <span>Avtar</span> Space <span>Technology</span>
+                            Fuel up Your Business with our IT services
                         </h1>
                         <p class="description ">
-                            Avtar Space Technology, we understand the critical role that technology plays in today's business landscape.
+                            Unlock peak performance and trim expenses with our game-changing digital IT services and solutions.
                         </p>
                         <div class="pd_top_20"></div>
-                        <ul class="d_inline_block">
+                        <!-- <ul class="d_inline_block">
                             <li>
                                 <div class="theme_btn_all">
                                     <a href="/contact-us" rel="nofollow" class="btn-hover-my color-3">
                                         Lets Connects</a>
                                 </div>
                             </li>
-                            <!--<li class="vd_bx">-->
-                            <!--    <div class="video_box">-->
-                            <!--        <a href="https://www.youtube.com/embed/-VK0axfge4A" class="lightbox-image"-->
-                            <!--            aria-label="Watch about Avtar Space Technology"><i class="icon-play"></i></a>-->
-                            <!--    </div>-->
-                            <!--</li>-->
-                        </ul>
+                            <li class="vd_bx">
+                               <div class="video_box">
+                                   <a href="https://www.youtube.com/embed/-VK0axfge4A" class="lightbox-image"
+                                       aria-label="Watch about Avtar Space Technology"><i class="icon-play"></i></a>
+                               </div>
+                            </li>
+                        </ul> -->
                     </div>
                     <!--===============spacing==============-->
                     <div class="pd_bottom_80"></div>
                     <!--===============spacing==============-->
                 </div>
-                <div class="col-lg-6 hidden-md image_column">
+                <!-- <div class="col-lg-6 hidden-md image_column">
                     <div class="slider_image margin_extra">
-                        <img src="assets/images/sliders/avtar-space-01.png" class="img-fluid vert-move" alt="slider image" />
+                        <img src="assets/images/sliders/avtar-space-01.png" class="img-fluid vert-move" alt="slider image">
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -55,14 +55,7 @@
         <!--===============spacing==============-->
         <div class="container" id="About_us">
             <div class="row">
-                <div class="col-xl-6 col-lg-12 mb-lg-5 mb-xl-0" style="display: inline-flex;align-items: center;">
-                    <div class="image_boxes style_one">
-                        <div class="mt-3">
-                            <img src="assets/images/about/about-5.png" class="img" alt="image" />
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-12">
+                <div class="col-xl-6 col-lg-6">
                     <div class="">
                         <div class="title_all_box style_two dark_color ">
                             <div class="title_sections two nine">
@@ -91,6 +84,14 @@
                         <!--===============spacing==============-->
                     </div>
                 </div>
+                <div class="col-xl-6 col-lg-6 mb-lg-5 mb-xl-0" style="display: inline-flex;align-items: center;">
+                    <div class="image_boxes style_one">
+                        <div class="mt-3">
+                            <img src="assets/images/about/about-5.png" class="img" alt="image" />
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
         <!--===============spacing==============-->
@@ -100,7 +101,7 @@
     <!---About End--->
 
     <!---Service Start--->
-    <section class="service-section">
+    <section class="service-section bg_light_1 py-5">
         <div class="container">
             <div class="row mb-4">
                 <div class="col-lg-12">
@@ -137,7 +138,7 @@
                                     </div>
                                     <div class="col-lg-2 col-md-12 col-sm-12 rounded-3 responsive_service_section" style="
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
                                   ">
                                         <div class="text_box_inner">
                                             <img src="assets/images/home/C Language.svg" alt="C Language" srcset="">
@@ -180,7 +181,7 @@
                                 <div class="col-md-4 col-sm-6" style="
                                     padding: 20px 0px 0px;
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
                                     border-radius: 5px;
                                     width: 23.333333% !important;
                                   ">
@@ -216,10 +217,26 @@
                         <div class="authour_details">
                             <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <h3 class="title_service  mb-3">
+                                    <div class="row gutter_15px">
+                                        <div class="col-lg-12">
+                                            <div class="icon_box_all  style_two">
+                                                <div class="icon_content icon_imgs ">
+                                                    <div class="">
+                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                    </div>
+                                                    <div class="txt_content">
+                                                        <h3>Software Development
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- <h3 class="title_service mb-3">
                                         Software Development
-                                    </h3>
-                                    <p class="short_desc ">
+                                    </h3> -->
+                                    <p class="short_desc mt-4">
                                         We are India's leading software development company since 2016. Our skilled professionals can provide scalable, secure, and reliable software solutions. We deliver the best custom solutions with recent IT advancements...
                                     </p>
                                     <!--===============spacing==============-->
@@ -235,8 +252,9 @@
                                 <div class="col-md-4 col-sm-6" style="
                                     padding: 20px 0px 0px;
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
                                     border-radius: 5px;
+                                    border: 1px solid var(--border-color-dark);
                                     width: 23.333333% !important;
                                   ">
                                     <div class="text_box_inner">
@@ -265,10 +283,26 @@
                         <div class="authour_details">
                             <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <h3 class="title_service  mb-3">
+                                    <div class="row gutter_15px">
+                                        <div class="col-lg-12">
+                                            <div class="icon_box_all  style_two">
+                                                <div class="icon_content icon_imgs ">
+                                                    <div class="">
+                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                    </div>
+                                                    <div class="txt_content">
+                                                        <h3>Mobile App Development
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- <h3 class="title_service  mb-3">
                                         Mobile App Development
-                                    </h3>
-                                    <p class="short_desc ">
+                                    </h3> -->
+                                    <p class="short_desc mt-4">
                                         We provide professional mobile app development services. We aim to build Android & iOS applications that incredibly complement or swap web solutions. We have delivered around 150+ projects of mobile...
                                     </p>
                                     <!--===============spacing==============-->
@@ -279,8 +313,9 @@
                                 <div class="col-md-4 col-sm-6" style="
                                     padding: 20px 0px 0px;
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
                                     border-radius: 5px;
+                                    border: 1px solid var(--border-color-dark);
                                     width: 23.333333% !important;
                                   ">
                                     <div class="text_box_inner">
@@ -315,10 +350,26 @@
                         <div class="authour_details">
                             <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <h3 class="title_service  mb-3">
+                                    <div class="row gutter_15px">
+                                        <div class="col-lg-12">
+                                            <div class="icon_box_all  style_two">
+                                                <div class="icon_content icon_imgs ">
+                                                    <div class="">
+                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                    </div>
+                                                    <div class="txt_content">
+                                                        <h3>AI & Machine Learning
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- <h3 class="title_service  mb-3">
                                         Artificial Intelligence & Machine Learning
-                                    </h3>
-                                    <p class="short_desc ">
+                                    </h3> -->
+                                    <p class="short_desc mt-4">
                                         The two most revolutionary innovations today are artificial intelligence and machine learning. With the help of AI & ML, Avtar Space has identified trends, made intelligent decisions, helped most businesses succeed, and developed...
                                     </p>
                                     <!--===============spacing==============-->
@@ -329,8 +380,9 @@
                                 <div class="col-md-4 col-sm-6" style="
                                     padding: 20px 0px 0px;
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
                                     border-radius: 5px;
+                                    border: 1px solid var(--border-color-dark);
                                     width: 23.333333% !important;
                                   ">
                                     <div class="text_box_inner">
@@ -363,10 +415,26 @@
                         <div class="authour_details">
                             <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
+                                    <div class="row gutter_15px">
+                                        <div class="col-lg-12">
+                                            <div class="icon_box_all  style_two">
+                                                <div class="icon_content icon_imgs ">
+                                                    <div class="">
+                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                    </div>
+                                                    <div class="txt_content">
+                                                        <h3>
+                                                            Website Development
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <h3 class="title_service  mb-3">
-                                        Website Development
                                     </h3>
-                                    <p class="short_desc ">
+                                    <p class="short_desc mt-4">
                                         We provide high-performing web development and website design services. Our skilled professionals create user-friendly, featured packs that provide secure and fully functional web experiences. Avtar Space offers...
                                     </p>
                                     <!--===============spacing==============-->
@@ -377,8 +445,9 @@
                                 <div class="col-md-4 col-sm-6" style="
                                     padding: 20px 0px 0px;
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
                                     border-radius: 5px;
+                                    border: 1px solid var(--border-color-dark);
                                     width: 23.333333% !important;
                                   ">
                                     <div class="text_box_inner">
@@ -526,10 +595,24 @@
                         <div class="authour_details">
                             <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <h3 class="title_service  mb-3">
-                                        UI/UX Designing
-                                    </h3>
-                                    <p class="short_desc ">
+                                    <div class="row gutter_15px">
+                                        <div class="col-lg-12">
+                                            <div class="icon_box_all  style_two">
+                                                <div class="icon_content icon_imgs ">
+                                                    <div class="">
+                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                    </div>
+                                                    <div class="txt_content">
+                                                        <h3>
+                                                            UI / UX Designing
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <p class="short_desc mt-4">
                                         We are a proficient UI/UX design company that offers comprehensive services. Good design is essential for digital success; we understand it very well. Our skilled team understands and addresses the needs of organizations and businesses...
 
                                     </p>
@@ -541,8 +624,9 @@
                                 <div class="col-md-4 col-sm-6" style="
                                     padding: 20px 0px 0px;
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
                                     border-radius: 5px;
+                                    border: 1px solid var(--border-color-dark);
                                     width: 23.333333% !important;
                                   ">
                                     <div class="text_box_inner">
@@ -575,10 +659,26 @@
                         <div class="authour_details">
                             <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
+                                    <div class="row gutter_15px">
+                                        <div class="col-lg-12">
+                                            <div class="icon_box_all  style_two">
+                                                <div class="icon_content icon_imgs ">
+                                                    <div class="">
+                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                    </div>
+                                                    <div class="txt_content">
+                                                        <h3>
+                                                            Graphics Designing
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <h3 class="title_service  mb-3">
-                                        Graphics Designing
                                     </h3>
-                                    <p class="short_desc ">
+                                    <p class="short_desc mt-4">
                                         We are a professional graphic design company, and Our design experts create unique and creative digital designs that make your business stand out from the crowd. We deliver high-quality and impressive graphics that make an impact in the market.
 
                                     </p>
@@ -590,7 +690,8 @@
                                 <div class="col-md-4 col-sm-6" style="
                                     padding: 20px 0px 0px;
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
+                                    border: 1px solid var(--border-color-dark);
                                     border-radius: 5px;
                                     width: 23.333333% !important;
                                   ">
@@ -627,12 +728,27 @@
                         <div class="authour_details">
                             <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
+                                    <div class="row gutter_15px">
+                                        <div class="col-lg-12">
+                                            <div class="icon_box_all  style_two">
+                                                <div class="icon_content icon_imgs ">
+                                                    <div class="">
+                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                    </div>
+                                                    <div class="txt_content">
+                                                        <h3>
+                                                            Digital Marketing
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <h3 class="title_service  mb-3">
-                                        Digital Marketing
                                     </h3>
-                                    <p class="short_desc ">
+                                    <p class="short_desc mt-4">
                                         Avatar Space is a diverse and dynamic advertising company that offers complete digital marketing solutions. We have experts who work strategically and drive new customers to your website via search engine optimization, social media promotion, PPC...
-
                                     </p>
                                     <!--===============spacing==============-->
                                     <div class="mr_bottom_20"></div>
@@ -642,7 +758,8 @@
                                 <div class="col-md-4 col-sm-6" style="
                                     padding: 20px 0px 0px;
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
+                                    border: 1px solid var(--border-color-dark);
                                     border-radius: 5px;
                                     width: 23.333333% !important;
                                   ">
@@ -676,10 +793,26 @@
                         <div class="authour_details">
                             <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
+                                    <div class="row gutter_15px">
+                                        <div class="col-lg-12">
+                                            <div class="icon_box_all  style_two">
+                                                <div class="icon_content icon_imgs ">
+                                                    <div class="">
+                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                    </div>
+                                                    <div class="txt_content">
+                                                        <h3>
+                                                            Cloud Computing
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <h3 class="title_service  mb-3">
-                                        Cloud Computing
                                     </h3>
-                                    <p class="short_desc ">
+                                    <p class="short_desc mt-4">
                                         We are India's best cloud computing service provider, hosting a wide range of designs allowing you to work seamlessly. We have multiple public, private, and virtual cloud service options for various industries that offer rapid deployment...
                                     </p>
                                     <!--===============spacing==============-->
@@ -690,30 +823,31 @@
                                 <div class="col-md-4 col-sm-6" style="
                                     padding: 20px 0px 0px;
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
                                     border-radius: 5px;
+                                    border: 1px solid var(--border-color-dark);
                                     width: 23.333333% !important;
                                   ">
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/googlecloud.png" alt="Google Cloud" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Google Cloud.svg" alt="Google Cloud" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">Google Cloud</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/aws.png" alt="AWS" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/AWS.svg" alt="AWS" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">AWS</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/azure.png" alt="Azure" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Azure.svg" alt="Azure" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">Azure</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/docker.png" alt="Docker" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Docker.svg" alt="Docker" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">Docker</a>
                                             </h6>
@@ -721,16 +855,31 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
                     <div class="testimonial_box clearfix">
                         <div class="authour_details">
                             <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
+                                    <div class="row gutter_15px">
+                                        <div class="col-lg-12">
+                                            <div class="icon_box_all  style_two">
+                                                <div class="icon_content icon_imgs ">
+                                                    <div class="">
+                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                    </div>
+                                                    <div class="txt_content">
+                                                        <h3>
+                                                            Block Chain Development
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <h3 class="title_service  mb-3">
-                                        Block Chain Development
                                     </h3>
-                                    <p class="short_desc ">
+                                    <p class="short_desc mt-4">
                                         We start Blockchain services with an understanding of your specific requirements. We bring the right combination of practical applications to follow blockchain innovation. The discussion emerges as new...
 
                                     </p>
@@ -742,30 +891,31 @@
                                 <div class="col-md-4 col-sm-6" style="
                                     padding: 20px 0px 0px;
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
                                     border-radius: 5px;
+                                    border: 1px solid var(--border-color-dark);
                                     width: 23.333333% !important;
                                   ">
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/nft.png" alt="NFT" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/NFT.svg" alt="NFT" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">NFT</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/terraform.png" alt="Terraform" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Terraform.svg" alt="Terraform" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">Terraform</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/ethereum.png" alt="Ethereum" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Ethereum.svg" alt="Ethereum" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">Ethereum</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/alchemy.png" alt="Alchemy" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Alchemy.svg" alt="Alchemy" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">Alchemy</a>
                                             </h6>
@@ -776,10 +926,26 @@
                         <div class="authour_details">
                             <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
+                                    <div class="row gutter_15px">
+                                        <div class="col-lg-12">
+                                            <div class="icon_box_all  style_two">
+                                                <div class="icon_content icon_imgs ">
+                                                    <div class="">
+                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                    </div>
+                                                    <div class="txt_content">
+                                                        <h3>
+                                                            Cybersecurity Solutions
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <h3 class="title_service  mb-3">
-                                        Cybersecurity Solutions
                                     </h3>
-                                    <p class="short_desc ">
+                                    <p class="short_desc mt-4">
                                         We provide monetary and non-monetary cyber security services to help your organization's website security. Cyber security protects business data and increases employee productivity while optimizing...
 
                                     </p>
@@ -791,30 +957,31 @@
                                 <div class="col-md-4 col-sm-6" style="
                                     padding: 20px 0px 0px;
                                     text-align: -webkit-center;
-                                    background: var(--border-color-dark);
+                                    background: var(--primary-color-four);
                                     border-radius: 5px;
+                                    border: 1px solid var(--border-color-dark);
                                     width: 23.333333% !important;
                                   ">
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/dnssecure.png" alt="DNS Secure" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/DNS Secure.svg" alt="DNS Secure" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">DNS Secure</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/antivirus.png" alt="Antivirus" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Antivirus.svg" alt="Antivirus" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">Antivirus</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/firewall.png" alt="Firewall" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Firewall.svg" alt="Firewall" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">Firewall Protect</a>
                                             </h6>
                                     </div>
                                     <div class="text_box_inner">
-                                        <img src="assets/images/icons/database-backup.png" alt="Database-backup" srcset="" style="max-width: 31.67px; height: auto">
+                                        <img src="assets/images/home/Data-Backup.svg" alt="Database-backup" srcset="" style="max-width: 31.67px; height: auto">
                                         <p class="card-icon-name" style="font-size: 10px">
                                             <a href="#" rel="bookmark">Database-Backup</a>
                                             </h6>
@@ -1030,15 +1197,14 @@
     <section class=" style_one" style="padding: 50px 0;">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-12">
+                <div class="col-lg-12">
                     <div class="title_all_box style_one content_box_cn">
                         <div class="title_sections ">
                             <div class="content_box_cn style_one">
-                                <div class="txt_content">
-                                    <h2 class="">Industries we serve our services</h2>
+                                <div class="">
+                                    <h2 class="my-4">Industries we serve our services</h2>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -1053,7 +1219,7 @@
                             <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
-                                <h2 style=" font-weight: 400;   font-size: 0.8rem;">Education</h2>
+                                <h2 class="" style=" font-weight: 400;   font-size: 0.8rem;">Education</h2>
                             </div>
                         </div>
                     </div>
@@ -1233,13 +1399,9 @@
     </style>
 
 
-
-
     <!-- Process We Follow -->
-    <section class="service-box-sction">
-        <!--===============spacing==============-->
+    <!-- <section class="service-box-sction">
         <div class="pd_top_100"></div>
-        <!--===============spacing==============-->
         <div class="container">
             <div class="row gutter_30px">
                 <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -1282,9 +1444,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--===============spacing==============-->
                     <div class="pd_bottom_20"></div>
-                    <!--===============spacing==============-->
                 </div>
 
                 <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12 mb-sm-5 mb-md-5 mb-lg-5 mb-xl-0">
@@ -1318,9 +1478,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--===============spacing==============-->
                     <div class="pd_bottom_20"></div>
-                    <!--===============spacing==============-->
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12">
                     <div class="icon_box_all style_five">
@@ -1353,9 +1511,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--===============spacing==============-->
                     <div class="pd_bottom_20"></div>
-                    <!--===============spacing==============-->
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12">
                     <div class="icon_box_all style_five">
@@ -1387,9 +1543,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--===============spacing==============-->
                     <div class="pd_bottom_20"></div>
-                    <!--===============spacing==============-->
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12">
                     <div class="icon_box_all style_five">
@@ -1419,9 +1573,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--===============spacing==============-->
                     <div class="pd_bottom_20"></div>
-                    <!--===============spacing==============-->
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12">
                     <div class="icon_box_all style_five">
@@ -1451,9 +1603,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--===============spacing==============-->
                     <div class="pd_bottom_20"></div>
-                    <!--===============spacing==============-->
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12">
                     <div class="icon_box_all style_five">
@@ -1484,16 +1634,12 @@
                             </div>
                         </div>
                     </div>
-                    <!--===============spacing==============-->
                     <div class="pd_bottom_20"></div>
-                    <!--===============spacing==============-->
                 </div>
             </div>
         </div>
-        <!--===============spacing==============-->
         <div class="pd_bottom_70"></div>
-        <!--===============spacing==============-->
-    </section>
+    </section> -->
     <!-- process end -->
 
     <!-- Our Portfolio Start -->

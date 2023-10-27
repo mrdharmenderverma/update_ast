@@ -94,10 +94,10 @@
                 <div class="rounded-3 p-3 border">
                     <div class="icon_content icon_centers text-center">
                         <div class="txt_content">
-                            <img src="assets/images/home/experience.svg" alt="">
-                            <h3 style=" font-weight: 600;">We have the experience</h3>
+                            <img src="assets/images/home/experience.svg" alt="" class="my-2">
+                            <h4 class="my-2" style=" font-weight: 500;">We have the experience</h4>
                             <!-- <img src="assets/images/cal-to-action.jpg" alt=""> -->
-                            <p>
+                            <p class="mb-5">
                                 We have been helping businesses transform their digital presence for many years. We have the expertise and the track record to get the job done right.
                             </p>
                         </div>
@@ -109,8 +109,8 @@
                 <div class="rounded-3 p-3 border">
                     <div class="icon_content icon_centers text-center">
                         <div class="txt_content">
-                            <img src="assets/images/home/Success.svg" alt="">
-                            <h3 style=" font-weight: 600;">We are dedicated to your Success</h3>
+                            <img src="assets/images/home/Success.svg" alt="" class="my-2">
+                            <h4 class="my-2" style=" font-weight: 500;">We are dedicated to your Success</h4>
                             <!-- <img src="assets/images/cal-to-action.jpg" alt=""> -->
                             <p>
                                 We want you to be successful. We will work with you every step of the way to make sure that your digital transformation journey is a success.
@@ -123,10 +123,10 @@
                 <div class="rounded-3 p-3 border">
                     <div class="icon_content icon_centers text-center">
                         <div class="txt_content">
-                            <img src="assets/images/home/Reliable.svg" alt="">
-                            <h3 style=" font-weight: 600;">We are Reliable</h3>
+                            <img src="assets/images/home/Reliable.svg" alt="" class="my-2">
+                            <h4 class="my-2" style=" font-weight: 500;">We are Reliable</h4>
                             <!-- <img src="assets/images/cal-to-action.jpg" alt=""> -->
-                            <p>
+                            <p class="pb-5">
                                 We are committed to delivering high-quality results on time and within budget. We will never leave you hanging.
 
                             </p>

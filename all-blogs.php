@@ -4,7 +4,7 @@ include_once 'header.php'; ?>
 <!-- Header File -->
 <!--===============PAGE CONTENT ==============-->
 <div id="content" class="site-content">
-    <section class="style_one" style="background-image: url(assets/images/sliders/slider-3-bg.png);">
+    <section class="style_one">
         <div class="container">
             <div class="col-lg-12">
                 <div class="title_all_box style_one text-center dark_color">
@@ -37,7 +37,7 @@ include_once 'header.php'; ?>
                             <div class="row">
                                 <div class="col-lg-7">
                                     <p class="gradient-text" style="font-size: 0.9rem;">Blog Type : Web Development</p>
-                                    <h2 style="color: #ffffff; font-weight: 600; font-size: 1.4rem;">What is the MERN Stack? Components & Differences between MEAN & MERN What is a MERN Stack?</h2>
+                                    <h2 style=" font-weight: 600; font-size: 1.4rem;">What is the MERN Stack? Components & Differences between MEAN & MERN What is a MERN Stack?</h2>
 
                                     <p style="margin-top: 2%; font-size: 16px;">A collection of strong and capable technologies called MERN Stack is used to create sophisticated online web-based applications ...</p>
 
@@ -100,7 +100,7 @@ include_once 'header.php'; ?>
                             <div class="txt_content">
                                 <img src="assets/images/blog/blog-img-1-1.webp" alt="" srcset="">
                                 <p class="gradient-text" style="font-size: 0.9rem;">Blog Type : UI/UX Design</p>
-                                <h2 style="color: #ffffff; font-weight: 600; font-size: 1.4rem;">3 Innovative User
+                                <h2 style=" font-weight: 600; font-size: 1.4rem;">3 Innovative User
                                     Experience Application
                                     Ideas for Startup Success in 2023</h2>
                                 <p style="margin-top: 2%; font-size: 16px;">Lorem Ipsum is simply dummy text of the
@@ -126,7 +126,7 @@ box-shadow: 0px 5.33333px 5.33333px 0px rgba(255, 255, 255, 0.20)">
                             <div class="txt_content">
                                 <img src="assets/images/blog/blog-img-1-1.webp" alt="" srcset="">
                                 <p class="gradient-text" style="font-size: 0.9rem;">Blog Type : UI/UX Design</p>
-                                <h2 style="color: #ffffff; font-weight: 600; font-size: 1.4rem;">3 Innovative User
+                                <h2 style=" font-weight: 600; font-size: 1.4rem;">3 Innovative User
                                     Experience Application
                                     Ideas for Startup Success in 2023</h2>
 
@@ -154,7 +154,7 @@ box-shadow: 0px 5.33333px 5.33333px 0px rgba(255, 255, 255, 0.20)">
                             <div class="txt_content">
                                 <img src="assets/images/blog/blog-img-1-1.webp" alt="" srcset="">
                                 <p class="gradient-text" style="font-size: 0.9rem;">Blog Type : UI/UX Design</p>
-                                <h2 style="color: #ffffff; font-weight: 600; font-size: 1.4rem;">3 Innovative User
+                                <h2 style=" font-weight: 600; font-size: 1.4rem;">3 Innovative User
                                     Experience Application
                                     Ideas for Startup Success in 2023</h2>
 
@@ -184,7 +184,7 @@ box-shadow: 0px 5.33333px 5.33333px 0px rgba(255, 255, 255, 0.20)">
                             <div class="txt_content">
                                 <img src="assets/images/blog/blog-img-1-1.webp" alt="" srcset="">
                                 <p class="gradient-text" style="font-size: 0.9rem;">Blog Type : UI/UX Design</p>
-                                <h2 style="color: #ffffff; font-weight: 600; font-size: 1.4rem;">3 Innovative User
+                                <h2 style=" font-weight: 600; font-size: 1.4rem;">3 Innovative User
                                     Experience Application
                                     Ideas for Startup Success in 2023</h2>
 
@@ -214,7 +214,7 @@ box-shadow: 0px 5.33333px 5.33333px 0px rgba(255, 255, 255, 0.20)">
                             <div class="txt_content">
                                 <img src="assets/images/blog/blog-img-1-1.webp" alt="" srcset="">
                                 <p class="gradient-text" style="font-size: 0.9rem;">Blog Type : UI/UX Design</p>
-                                <h2 style="color: #ffffff; font-weight: 600; font-size: 1.4rem;">3 Innovative User
+                                <h2 style=" font-weight: 600; font-size: 1.4rem;">3 Innovative User
                                     Experience Application
                                     Ideas for Startup Success in 2023</h2>
 
@@ -244,7 +244,7 @@ box-shadow: 0px 5.33333px 5.33333px 0px rgba(255, 255, 255, 0.20)">
                             <div class="txt_content">
                                 <img src="assets/images/blog/blog-img-1-1.webp" alt="" srcset="">
                                 <p class="gradient-text" style="font-size: 0.9rem;">Blog Type : UI/UX Design</p>
-                                <h2 style="color: #ffffff; font-weight: 600; font-size: 1.4rem;">3 Innovative User
+                                <h2 style=" font-weight: 600; font-size: 1.4rem;">3 Innovative User
                                     Experience Application
                                     Ideas for Startup Success in 2023</h2>
 
