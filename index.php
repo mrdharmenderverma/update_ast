@@ -1719,10 +1719,10 @@
                                     display: flex;
                                     justify-content: space-between;
                                   ">
-                                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                                    <h2 class="title_service  mb-3">
+                                                <div class="col-md-8 col-sm-6" style="width: 80% !important">
+                                                    <h4 class="title_service mb-3">
                                                         Xam Idea Application
-                                                    </h2>
+                                                    </h4>
                                                     <p class="short_desc ">Xam idea is a comprehensive exam
                                                         preparation system for secondary and senior classes. It is
                                                         strictly according to the latest revised CBSE syllabus and
@@ -1770,9 +1770,9 @@
                                     justify-content: space-between;
                                   ">
                                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                                    <h2 class="title_service  mb-3">
+                                                    <h4 class="title_service  mb-3">
                                                         PDF Converter Pro - Convert Al App
-                                                    </h2>
+                                                    </h4>
                                                     <p class="short_desc ">PDF CONVERTER is a simple and
                                                         amazing conversion quality app and the ultimate file converter
                                                         for your phone. Easy to use the application to convert your
@@ -1819,9 +1819,9 @@
                                     justify-content: space-between;
                                   ">
                                                 <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                                    <h2 class="title_service  mb-3">
+                                                    <h4 class="title_service  mb-3">
                                                         Global App Services Website
-                                                    </h2>
+                                                    </h4>
                                                     <p class="short_desc ">At Global App Services – A website
                                                         making company committed to deliver creative & quality solutions
                                                         by using latest technology.</p>

@@ -4,15 +4,15 @@
 <!--===============PAGE CONTENT ==============-->
 <div id="content" class="site-content">
     <!-- Privacy Policy Start -->
-    <section class="single_banner style_one" style="
-              background-image: url(assets/images/sliders/slider-3-bg.png);
-              padding: 100px 0px 0px 0px !important;
-            ">
+    <section class="single_banner ">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="title_all_box style_one text-center dark_color">
                         <div class="title_sections">
+                            <!--===============spacing==============-->
+                            <div class="pd_top_50"></div>
+                            <!--===============spacing==============-->
                             <!-- <div class="before_title">Our Clients</div> -->
                             <h2 class=" privacypolicy-stroke">Privacy Policy</h2>
                         </div>

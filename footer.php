@@ -13,7 +13,7 @@
                             <div class="about_company_inner">
                                 <div class="footer_logo">
                                     <a href="index" rel="nofollow">
-                                        <img src="assets/images/logo-white.png" alt="logo" />
+                                        <img src="assets/images/logo white.svg" alt="logo" />
                                     </a>
                                     <!--===============spacing==============-->
                                     <div class="pd_bottom_30"></div>

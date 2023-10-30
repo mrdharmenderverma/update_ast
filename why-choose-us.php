@@ -21,7 +21,7 @@
         <div class="row align-items-center">
             <div class="col-lg-12 col-md-12">
                 <div class="content_box_cn style_one">
-                    <div class="txt_content ">
+                    <div class="">
                         <h2 class="" style="letter-spacing: 3px; margin-bottom: 20px">
                             Why Choose Us ?
                         </h2>

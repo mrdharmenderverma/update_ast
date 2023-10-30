@@ -1,19 +1,23 @@
 <!-- Header Start -->
-<?php $current_page_url="https://avtarspace.com/about-us"; $title = 'AST | About Us'; include_once 'header.php'; ?>
+<?php $current_page_url = "https://avtarspace.com/about-us";
+$title = 'AST | About Us';
+include_once 'header.php'; ?>
 <!-- Header End -->
 
 <!--===============PAGE CONTENT==============-->
 <div id="content" class="site-content">
-    
     <!--Section First Start-->
-    <section >
+    <section class="style_one">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-12">
                     <div class="title_all_box style_two dark_color">
                         <div class="title_sections two">
+                            <!--===============spacing==============-->
+                            <div class="pd_top_50"></div>
+                            <!--===============spacing==============-->
                             <div class="content_box_cn style_one">
-                                <div class="txt_content">
+                                <div class="">
                                     <h2 class="">About Us</h2>
                                     <div class="mr_bottom_20"></div>
                                 </div>
@@ -34,39 +38,31 @@
                         <div class="mr_bottom_30"></div>
                         <!--===============spacing==============-->
                     </div>
-                  
-                    </div>
-                      <div class="col-xl-6 col-lg-12">
+
+                </div>
+                <div class="col-xl-6 col-lg-12">
                     <div class="image_boxes style_three">
                         <img src="assets/images/about/about-5.png" class="img-fluid object-fit-cover" alt="image">
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </section>
     <!--Section Second End-->
-    
-    <div class="mr_bottom_80"></div>
-    
-    <!--why-choose-us Start-->
-    <?php include_once 'why-choose-us.php';?>
-    <!--why-choose-us End-->
-    
-    <div class="mr_bottom_40"></div> 
-    <!--===============spacing==============-->
+
 
 
     <!-- --------------- Mission & vision start ------- -->
-    <section >
+    <div class="mr_bottom_80"></div>
+    <section>
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 mb-lg-0 mb-xl-0">
                     <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
                         <div class="icon_content icon_centers">
                             <div class="txt_content">
-                                <h3 style=" font-weight: 600;"><img src="assets/images/icons/mision.png"
-                                        alt="">&nbsp; &nbsp;Our
+                                <h3 style=" font-weight: 600;"><img src="assets/images/icons/mision.png" alt="">&nbsp; &nbsp;Our
                                     Mission</h3>
                                 <!-- <img src="assets/images/cal-to-action.jpg" alt=""> -->
                                 <p style="margin-top: 2%; font-size: 18px;">
@@ -81,12 +77,11 @@
                     <div class="icon_box_all style_one" style="background-color: rgba(255,255,255,.1); margin-top: 5%;">
                         <div class="icon_content icon_centers">
                             <div class="txt_content">
-                                <h3 style=" font-weight: 600;"><img src="assets/images/icons/vision.png"
-                                        alt="">&nbsp;
+                                <h3 style=" font-weight: 600;"><img src="assets/images/icons/vision.png" alt="">&nbsp;
                                     &nbsp;Our Vision</h3>
                                 <!-- <img src="assets/images/cal-to-action.jpg" alt=""> -->
                                 <p style="margin-top: 2%; font-size: 18px;">
-                                   Our vision at Avatar Space Technology is to propel humanity forward by harnessing the full potential of software development. We aspire to create a digital realm where innovation knows no limits, and technology merges with daily life. Through our expertise, we aim to inspire and transform industries. With every project, we strive to bridge the gap between imagination and reality, and a technologically enriched future.
+                                    Our vision at Avatar Space Technology is to propel humanity forward by harnessing the full potential of software development. We aspire to create a digital realm where innovation knows no limits, and technology merges with daily life. Through our expertise, we aim to inspire and transform industries. With every project, we strive to bridge the gap between imagination and reality, and a technologically enriched future.
                                 </p>
                             </div>
                         </div>
@@ -96,16 +91,25 @@
     </section>
     <!-- --------------- Mission & vision end ------- -->
 
+    <div class="mr_bottom_80"></div>
+
+    <!--why-choose-us Start-->
+    <?php include_once 'why-choose-us.php'; ?>
+    <!--why-choose-us End-->
+
+    <div class="mr_bottom_40"></div>
+    <!--===============spacing==============-->
+
 
     <!-- --------------- Industries we serve our services start ------- -->
     <section class=" style_one" style="padding: 50px 0;">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-12">
+                <div class="col-lg-12 mb-3">
                     <div class="title_all_box style_one content_box_cn">
                         <div class="title_sections ">
                             <div class="content_box_cn style_one">
-                                <div class="txt_content">
+                                <div class="">
                                     <h2 class="">Industries we serve our services</h2>
                                 </div>
                             </div>
@@ -121,8 +125,7 @@
                             <div class="industries_img">
                                 <img src="assets/images/icons/education.png" alt="" width="80%">
                             </div>
-                            <div class="industries_line"
-                                style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
                                 <h2 style=" font-weight: 400;   font-size: 0.8rem;">Education</h2>
@@ -138,8 +141,7 @@
                             <div class="industries_img">
                                 <img src="assets/images/icons/finance.png" alt="" width="80%">
                             </div>
-                            <div class="industries_line"
-                                style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
                                 <h2 style=" font-weight: 400;   font-size: 0.8rem;">Finance</h2>
@@ -155,8 +157,7 @@
                             <div class="industries_img">
                                 <img src="assets/images/icons/gaming.png" alt="" width="80%">
                             </div>
-                            <div class="industries_line"
-                                style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
                                 <h2 style=" font-weight: 400;   font-size: 0.8rem;">Gaming</h2>
@@ -172,8 +173,7 @@
                             <div class="industries_img">
                                 <img src="assets/images/icons/healthcare.png" alt="" width="80%">
                             </div>
-                            <div class="industries_line"
-                                style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
                                 <h2 style=" font-weight: 400;   font-size: 0.8rem;">Healthcare</h2>
@@ -191,8 +191,7 @@
                             <div class="industries_img">
                                 <img src="assets/images/icons/hitech.png" alt="" width="80%">
                             </div>
-                            <div class="industries_line"
-                                style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
                                 <h2 style=" font-weight: 400;   font-size: 0.8rem;">Hitech</h2>
@@ -208,8 +207,7 @@
                             <div class="industries_img">
                                 <img src="assets/images/icons/manufacturing.png" alt="" width="80%">
                             </div>
-                            <div class="industries_line"
-                                style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
                                 <h2 style=" font-weight: 400;   font-size: 0.8rem;">Manufacturing</h2>
@@ -224,8 +222,7 @@
                             <div class="industries_img">
                                 <img src="assets/images/icons/entertainment.png" alt="" width="80%">
                             </div>
-                            <div class="industries_line"
-                                style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
                                 <h2 style=" font-weight: 400;   font-size: 0.8rem;">Entertainment</h2>
@@ -240,8 +237,7 @@
                             <div class="industries_img">
                                 <img src="assets/images/icons/ecommerce.png" alt="" width="80%">
                             </div>
-                            <div class="industries_line"
-                                style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
                                 <h2 style=" font-weight: 400;   font-size: 0.8rem;">Ecommerce</h2>
@@ -259,8 +255,7 @@
                             <div class="industries_img">
                                 <img src="assets/images/icons/telicom.png" alt="" width="80%">
                             </div>
-                            <div class="industries_line"
-                                style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
                                 <h2 style=" font-weight: 400;   font-size: 0.8rem;">Tele-Commun</h2>
@@ -276,8 +271,7 @@
                             <div class="industries_img">
                                 <img src="assets/images/icons/logistic.png" alt="" width="80%">
                             </div>
-                            <div class="industries_line"
-                                style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
                                 <h2 style=" font-weight: 400;   font-size: 0.8rem;">Logistic</h2>
@@ -292,8 +286,7 @@
                             <div class="industries_img">
                                 <img src="assets/images/icons/travel.png" alt="" width="80%">
                             </div>
-                            <div class="industries_line"
-                                style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
+                            <div class="industries_line" style="width: 1px; height: 2rem; background-color: rgba(255, 255, 255,0.1); margin: 0 -0.3rem 0 0;">
                             </div>
                             <div class="industries_content txt_content">
                                 <h2 style=" font-weight: 400;   font-size: 0.8rem;">Travel & Hospitality
@@ -321,98 +314,85 @@
             <!--===============spacing==============-->
             <div class="mr_bottom_30"></div>
             <!--===============spacing==============-->
+            
             <div class="row">
-                <div class="testimonial_sec position-relative style_v2_one">
-
-                    <div class="testimonial_box clearfix">
-                        <div class="authour_details" style="width:30%">
-                            <div class="service_content icon_yes"
-                                style="display: flex; justify-content: space-between;">
-                                <div class="col-md-3 col-sm-3 mb-5" style="width: 100% !important">
-                                    <img src="assets/images/icons/woman-03.png" alt="" width="25%" class="mb-3">
-                                    <h2 class="title_service  mb-3">
-                                        Munmun Singh
-                                    </h2>
-                                    <p class="short_desc  mb-4">
-                                        President & Chief Executive Officer
-                                    </p>
-                                </div>
-           
+                <div class="col-lg-3 col-sm-12 col-md-6 mb-2">
+                    <div class="icon_box_all style_six border rounded-3 text-center">
+                        <div class="icon_content p-3">
+                            <div class="">
+                                <!-- <img src="assets/images/process-icon-im-2.png" class="img-fluid svg_image" alt="icon png"> -->
+                                <img src="assets/images/icons/woman-03.png" alt="" class="mb-3">
                             </div>
-                        </div>
-
-                        <div class="authour_details" style="width:30%">
-                            <div class="service_content icon_yes"
-                                style="display: flex; justify-content: space-between;">
-                                <div class="col-md-3 col-sm-3 mb-5" style="width: 100% !important">
-                                    <img src="assets/images/icons/man-02.png" alt="" width="25%" class="mb-3">
-                                    <h2 class="title_service  mb-3">
-                                        Balvinder Singh
-                                    </h2>
-                                    <p class="short_desc  mb-4">
-                                        Chief Information Officer
-                                    </p>
-                                    <!--<a href="#" target="_blank" rel="nofollow" class="btn-hover-my color-3">-->
-                                    <!--    Read More</a>-->
-                                </div>
-
-                            </div>
-                        </div>
-                         <div class="authour_details" style="width:30%">
-                            <div class="service_content icon_yes"
-                                style="display: flex; justify-content: space-between;">
-                                <div class="col-md-3 col-sm-3 mb-5" style="width: 100% !important">
-                                    <img src="assets/images/icons/man-03.png" alt="" width="25%" class="mb-3">
-                                    <h2 class="title_service  mb-3">
-                                        Richard dipilla
-                                    </h2>
-                                    <p class="short_desc  mb-4">
-                                        Vice-President & Head of USA
-                                    </p>
-                                </div>
-           
+                            <div class="text_box">
+                                <h4> Munmun Singh
+                                </h4>
+                                <p>President & Chief Executive Officer</p>
                             </div>
                         </div>
                     </div>
-                       <div class="testimonial_box clearfix">
-                       
-
-                        <div class="authour_details" style="width:30%">
-                            <div class="service_content icon_yes"
-                                style="display: flex; justify-content: space-between;">
-                                <div class="col-md-3 col-sm-3 mb-5" style="width: 100% !important">
-                                    <img src="assets/images/icons/man-04.png" alt="" width="25%" class="mb-3">
-                                    <h2 class="title_service  mb-3">
-                                        Anthony j james
-                                    </h2>
-                                    <p class="short_desc  mb-4">
-                                        Vice-President & Head of Australia
-                                    </p>
-                                    <!--<a href="#" target="_blank" rel="nofollow" class="btn-hover-my color-3">-->
-                                    <!--    Read More</a>-->
-                                </div>
-
+                </div>
+                <div class="col-lg-3 col-sm-12 col-md-6 mb-2">
+                    <div class="icon_box_all style_six border rounded-3 text-center">
+                        <div class="icon_content p-3">
+                            <div class="">
+                                <!-- <img src="assets/images/process-icon-im-2.png" class="img-fluid svg_image" alt="icon png"> -->
+                                <img src="assets/images/icons/man-02.png" alt="" class="mb-3">
                             </div>
-                        </div>
-                           <div class="authour_details" style="width:30%">
-                            <div class="service_content icon_yes"
-                                style="display: flex; justify-content: space-between;">
-                                <div class="col-md-3 col-sm-3 mb-5" style="width: 100% !important">
-                                    <img src="assets/images/icons/man-05.png" alt="" width="25%" class="mb-3">
-                                    <h2 class="title_service  mb-3">
-                                        Sudhir Arya
-                                    </h2>
-                                    <p class="short_desc  mb-4">
-                                        Chief technology Officer
-                                    </p>
-                                </div>
-           
+                            <div class="text_box">
+                                <h4> Balvinder Singh
+                                </h4>
+                                <p>Chief Information Officer &nbsp;</p>
                             </div>
                         </div>
                     </div>
-               
+                </div>
+                <div class="col-lg-3 col-sm-12 col-md-6 mb-2">
+                    <div class="icon_box_all style_six border rounded-3 text-center">
+                        <div class="icon_content p-3">
+                            <div class="">
+                                <!-- <img src="assets/images/process-icon-im-2.png" class="img-fluid svg_image" alt="icon png"> -->
+                                <img src="assets/images/icons/man-03.png" alt="" class="mb-3">
+                            </div>
+                            <div class="text_box">
+                                <h4> Richard dipilla
+                                </h4>
+                                <p>Vice-President & Head of USA</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 col-md-6 mb-2">
+                    <div class="icon_box_all style_six border rounded-3 text-center">
+                        <div class="icon_content p-3">
+                            <div class="">
+                                <!-- <img src="assets/images/process-icon-im-2.png" class="img-fluid svg_image" alt="icon png"> -->
+                                <img src="assets/images/icons/man-04.png" alt="" class="mb-3">
+                            </div>
+                            <div class="text_box">
+                                <h4> Anthony j james
+                                </h4>
+                                <p>Vice-President & Head of Australia</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 col-md-6 mb-2">
+                    <div class="icon_box_all style_six border rounded-3 text-center">
+                        <div class="icon_content p-3">
+                            <div class="">
+                                <!-- <img src="assets/images/process-icon-im-2.png" class="img-fluid svg_image" alt="icon png"> -->
+                                <img src="assets/images/icons/man-05.png" alt="" class="mb-3">
+                            </div>
+                            <div class="text_box">
+                                <h4> Sudhir Arya
+                                </h4>
+                                <p>Chief Technology Officer</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+
         </div>
     </section>
     <!-- --------------- Meet Leaders End ------- -->

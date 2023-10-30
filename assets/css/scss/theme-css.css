@@ -1628,7 +1628,7 @@ h5 a,
 h5,
 h6 a,
 h6 {
-  font-weight: 700;
+  font-weight: 500;
   margin: 0;
   color: var(--primary-color-two);
   font-family: var(--creote-family-one);
@@ -6013,11 +6013,11 @@ body .enabled_custom_title .title_page .main_tit {
 
 .header.style_nine .header_right_content .contact-toggler,
 .header.style_nine .header_right_content .search-toggler {
-  color: #fff;
+  color: var(--primary-color-two);
 }
 
 .header.style_nine.header_eleven .header_content_collapse .navigation_menu .navbar_nav li.active>a.nav-link {
-  color: #fff;
+  color: var(--primary-color-two);
 }
 
 .header.style_nine.header_eleven .header_content_collapse .navigation_menu .navbar_nav li.active>a.nav-link span.fa-angle-down {
@@ -9560,7 +9560,7 @@ header .flaticon-list {
 .single_banner.style_one {
   /* padding: 50px 0px; */
   padding-top: 80px;
-  padding-bottom: 500px;
+  padding-bottom: 100px;
 }
 
 .single_banner.style_one .slider_image {
@@ -11033,10 +11033,10 @@ header .flaticon-list {
 
 .blog_feature_image img {
   width: 100%;
-  height: 400px;
+  /* height: 400px; */
   -o-object-fit: cover;
   object-fit: cover;
-  border-radius: 15px;
+  /* border-radius: 15px; */
 }
 
 /*-----------====================related_post ===========================------------------*/
@@ -19450,7 +19450,10 @@ header .flaticon-list {
   width: 50%;
   min-width: 50%;
   overflow: hidden;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
+  margin: 5px;
+  border: 1px solid rgba(0, 17, 22, 0.10);
+  border-radius: 10px;
 }
 
 .testimonial_sec.style_v2_one .testimonial_box .image img {
@@ -25091,6 +25094,7 @@ form .wpcf7-response-output {
 .list_item_box.style_two li small .icon_bx i {
   min-width: 20px;
   font-size: 18px;
+  color: var(--primary-color-one);
 }
 
 .list_item_box.style_two li small span {

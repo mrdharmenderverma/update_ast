@@ -176,8 +176,9 @@ img.vert-move {
 .devlope_inner_sidebar {
     padding: 20px 0;
     text-align: -webkit-center;
-    background: #ffffff1c;
+    background: var(--primary-color-four);    
     border-radius: 5px;
+    border: 1px solid var(--border-color-dark);
     width: 23.333333% !important;
     height: 19rem
 }

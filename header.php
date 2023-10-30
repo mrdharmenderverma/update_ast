@@ -13,7 +13,7 @@
                         <div class="col-lg-2 col-md-9 col-sm-12 col-xs-9 logo_column">
                             <div class="header_logo_box">
                                 <a href="/" class="logo navbar-brand">
-                                    <img src="assets/images/logo-white.png" alt="AST Services"
+                                    <img src="assets/images/logo-dark.png" alt="AST Services"
                                         class="logo_default" />
                                     <!--<img src="assets/images/logo-2.png" alt="AST Services"-->
                                     <!--    class="logo__sticky" />-->
@@ -160,7 +160,7 @@
             
                
         <!-- ------------- Logo change on scroll script -----------  -->
-            <script>
+            <!-- <script>
                 function changeLogo() {
                     if (document.querySelector('.home').classList.contains('fixed-header')) {
                         document.querySelector('.logo_default').setAttribute('src', 'assets/images/logo-dark.png');
@@ -169,5 +169,5 @@
                     }
                 }
                 window.addEventListener('scroll', changeLogo);
-            </script>
+            </script> -->
             <!----header end----->
