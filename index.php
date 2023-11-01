@@ -100,14 +100,12 @@
     </section>
     <!---About End--->
 
+     <!---Service Start--->
     <section class="about-section bg_light_1">
         <!--===============spacing==============-->
         <div class="pd_bottom_80"></div>
         <!--===============spacing==============-->
         <div class="container">
-            <!--===============spacing==============-->
-            <div class="pd_bottom_40"></div>
-            <!--===============spacing==============-->
             <div class="row mb-4">
                 <div class="col-lg-12">
                     <div class="title_all_box style_two text-center dark_color">
@@ -121,9 +119,12 @@
                 <div class="mr_bottom_10"></div>
                 <!--===============spacing==============-->
             </div>
+            <!--===============spacing==============-->
+            <div class="pd_bottom_40"></div>
+            <!--===============spacing==============-->
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
-                    <div class="row border rounded-3 p-2">
+                    <div class="row border rounded-3 p-2 bg-white">
                         <div class="col-lg-9 col-md-9 col-sm-12">
                             <div class="row gutter_15px my-3">
                                 <div class="col-lg-12">
@@ -145,9 +146,7 @@
                                 View More<i class="icon-right-arrow"></i>
                             </a>
                         </div>
-                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center" style="
-                                    padding-top: 40px;
-                                    background: var(--primary-color-four);">
+                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center service_card_res services_crd">
                             <div class="text_box_inner">
                                 <img src="assets/images/home/C Language.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
                                 <p class="card-icon-name" style="font-size: 10px">
@@ -175,8 +174,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6 col-lg-6 col-md-12 mb-lg-0 mb-xl-0 mb-2">
-                    <div class="row border rounded-3 p-2">
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="row border rounded-3 p-2 bg-white">
                         <div class="col-lg-9 col-md-9 col-sm-12">
                             <div class="row gutter_15px my-3">
                                 <div class="col-lg-12">
@@ -187,49 +186,47 @@
                                                 <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
                                             </div>
                                             <div class="txt_content">
-                                                <h3>Software Development</h3>
+                                                <h3>Mobile App Development</h3>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <p>We are India's leading software development company since 2016. Our skilled professionals can provide scalable, secure, and reliable software solutions. We deliver the best custom solutions with recent IT advancements...</p>
+                            <p>We provide professional mobile app development services. We aim to build Android & iOS applications that incredibly complement or swap web solutions. We have delivered around 150+ projects of mobile...</p>
                             <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
                                 View More<i class="icon-right-arrow"></i>
                             </a>
                         </div>
-                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border py-4 text-center" style="
-                                    
-                                    background: var(--primary-color-four);">
+                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center service_card_res services_crd">
                             <div class="text_box_inner">
-                                <img src="assets/images/home/C Language.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <img src="assets/images/home/Android.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
                                 <p class="card-icon-name" style="font-size: 10px">
-                                    <a href="#" rel="bookmark">C Language</a>
+                                    <a href="#" rel="bookmark">Android App</a>
                                 </p>
                             </div>
                             <div class="text_box_inner">
-                                <img src="assets/images/home/Python.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
+                                <img src="assets/images/home/iOS.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
                                 <p class="card-icon-name" style="font-size: 10px">
-                                    <a href="#" rel="bookmark">Python</a>
+                                    <a href="#" rel="bookmark">IOS App</a>
                                 </p>
                             </div>
                             <div class="text_box_inner">
-                                <img src="assets/images/home/Java.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
+                                <img src="assets/images/home/Flutter.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
                                 <p class="card-icon-name" style="font-size: 10px">
-                                    <a href="#" rel="bookmark">Java</a>
+                                    <a href="#" rel="bookmark">Flutter App</a>
                                 </p>
                             </div>
                             <div class="text_box_inner">
-                                <img src="assets/images/home/c.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <img src="assets/images/home/React.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
                                 <p class="card-icon-name" style="font-size: 10px">
-                                    <a href="#" rel="bookmark">C#</a>
+                                    <a href="#" rel="bookmark">React App</a>
                                 </p>
                             </div>
                         </div>
                     </div>
-                </div>                
-                <div class="col-xl-6 col-lg-6 col-md-12 mb-lg-0 mb-xl-0 mb-2">
-                    <div class="row border rounded-3 p-2">
+                </div>              
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="row border rounded-3 p-2 bg-white">
                         <div class="col-lg-9 col-md-9 col-sm-12">
                             <div class="row gutter_15px my-3">
                                 <div class="col-lg-12">
@@ -240,49 +237,47 @@
                                                 <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
                                             </div>
                                             <div class="txt_content">
-                                                <h3>Software Development</h3>
+                                                <h3>AI & Machine Learning</h3>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <p>We are India's leading software development company since 2016. Our skilled professionals can provide scalable, secure, and reliable software solutions. We deliver the best custom solutions with recent IT advancements...</p>
+                            <p>The two most revolutionary innovations today are artificial intelligence and machine learning. With the help of AI & ML, Avtar Space has identified trends, made intelligent decisions, helped most businesses succeed, and developed...</p>
                             <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
                                 View More<i class="icon-right-arrow"></i>
                             </a>
                         </div>
-                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border py-4 text-center" style="
-                                    
-                                    background: var(--primary-color-four);">
+                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center service_card_res services_crd">
                             <div class="text_box_inner">
-                                <img src="assets/images/home/C Language.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <img src="assets/images/home/AI.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
                                 <p class="card-icon-name" style="font-size: 10px">
-                                    <a href="#" rel="bookmark">C Language</a>
+                                    <a href="#" rel="bookmark">AI</a>
                                 </p>
                             </div>
                             <div class="text_box_inner">
-                                <img src="assets/images/home/Python.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
+                                <img src="assets/images/home/Chat.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Chat Bots</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/TensorFlow.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Tensorflow</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Python.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
                                 <p class="card-icon-name" style="font-size: 10px">
                                     <a href="#" rel="bookmark">Python</a>
                                 </p>
                             </div>
-                            <div class="text_box_inner">
-                                <img src="assets/images/home/Java.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
-                                <p class="card-icon-name" style="font-size: 10px">
-                                    <a href="#" rel="bookmark">Java</a>
-                                </p>
-                            </div>
-                            <div class="text_box_inner">
-                                <img src="assets/images/home/c.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
-                                <p class="card-icon-name" style="font-size: 10px">
-                                    <a href="#" rel="bookmark">C#</a>
-                                </p>
-                            </div>
                         </div>
                     </div>
-                </div>                
-                <div class="col-xl-6 col-lg-6 col-md-12 mb-lg-0 mb-xl-0 mb-2">
-                    <div class="row border rounded-3 p-2">
+                </div>              
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="row border rounded-3 p-2 bg-white">
                         <div class="col-lg-9 col-md-9 col-sm-12">
                             <div class="row gutter_15px my-3">
                                 <div class="col-lg-12">
@@ -293,948 +288,257 @@
                                                 <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
                                             </div>
                                             <div class="txt_content">
-                                                <h3>Software Development</h3>
+                                                <h3>Website Development</h3>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <p>We are India's leading software development company since 2016. Our skilled professionals can provide scalable, secure, and reliable software solutions. We deliver the best custom solutions with recent IT advancements...</p>
+                            <p>We provide high-performing web development and website design services. Our skilled professionals create user-friendly, featured packs that provide secure and fully functional web experiences. Avtar Space offers...</p>
                             <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
                                 View More<i class="icon-right-arrow"></i>
                             </a>
                         </div>
-                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border py-4 text-center" style="
-                                    
-                                    background: var(--primary-color-four);">
+                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center service_card_res services_crd">
                             <div class="text_box_inner">
-                                <img src="assets/images/home/C Language.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <img src="assets/images/home/HTML.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
                                 <p class="card-icon-name" style="font-size: 10px">
-                                    <a href="#" rel="bookmark">C Language</a>
+                                    <a href="#" rel="bookmark">HTML</a>
                                 </p>
                             </div>
                             <div class="text_box_inner">
-                                <img src="assets/images/home/Python.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
+                                <img src="assets/images/home/CSS.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
                                 <p class="card-icon-name" style="font-size: 10px">
-                                    <a href="#" rel="bookmark">Python</a>
+                                    <a href="#" rel="bookmark">CSS</a>
                                 </p>
                             </div>
                             <div class="text_box_inner">
-                                <img src="assets/images/home/Java.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
+                                <img src="assets/images/home/JavaScript.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
                                 <p class="card-icon-name" style="font-size: 10px">
-                                    <a href="#" rel="bookmark">Java</a>
+                                    <a href="#" rel="bookmark">JavaScript</a>
                                 </p>
                             </div>
                             <div class="text_box_inner">
-                                <img src="assets/images/home/c.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <img src="assets/images/home/React.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
                                 <p class="card-icon-name" style="font-size: 10px">
-                                    <a href="#" rel="bookmark">C#</a>
+                                    <a href="#" rel="bookmark">React App</a>
                                 </p>
                             </div>
                         </div>
                     </div>
-                </div>                
+                </div>              
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="row border rounded-3 p-2 bg-white">
+                        <div class="col-lg-9 col-md-9 col-sm-12">
+                            <div class="row gutter_15px my-3">
+                                <div class="col-lg-12">
+                                    <div class="icon_box_all  style_two">
+                                        <div class="icon_content icon_imgs ">
+                                            <div class="">
+                                                <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                            </div>
+                                            <div class="txt_content">
+                                                <h3>UI / UX Designing</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <p>We are a proficient UI/UX design company that offers comprehensive services. Good design is essential for digital success; we understand it very well. Our skilled team understands and addresses the needs of organizations and businesses...</p>
+                            <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
+                                View More<i class="icon-right-arrow"></i>
+                            </a>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center service_card_res services_crd">
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Figma.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Figma</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Adobe XD.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Adobe XD</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Photoshop.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Photoshop</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Illustrator.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Illustrator</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>              
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="row border rounded-3 p-2 bg-white">
+                        <div class="col-lg-9 col-md-9 col-sm-12">
+                            <div class="row gutter_15px my-3">
+                                <div class="col-lg-12">
+                                    <div class="icon_box_all  style_two">
+                                        <div class="icon_content icon_imgs ">
+                                            <div class="">
+                                                <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                            </div>
+                                            <div class="txt_content">
+                                                <h3>Graphics Designing</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <p>We are a professional graphic design company, and Our design experts create unique and creative digital designs that make your business stand out from the crowd. We deliver high-quality and impressive graphics that make an impact in the market. </p>
+                            
+                            <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
+                                View More<i class="icon-right-arrow"></i>
+                            </a>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center service_card_res services_crd">
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Photoshop.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Photoshop</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Illustrator.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Illustrator</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/After Effect.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">After Effect</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Blender.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Blender</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>              
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="row border rounded-3 p-2 bg-white">
+                        <div class="col-lg-9 col-md-9 col-sm-12">
+                            <div class="row gutter_15px my-3">
+                                <div class="col-lg-12">
+                                    <div class="icon_box_all  style_two">
+                                        <div class="icon_content icon_imgs ">
+                                            <div class="">
+                                                <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                            </div>
+                                            <div class="txt_content">
+                                                <h3>Block Chain Development</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <p>We start Blockchain services with an understanding of your specific requirements. We bring the right combination of practical applications to follow blockchain innovation. The discussion emerges as new...</p>
+                            
+                            <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
+                                View More<i class="icon-right-arrow"></i>
+                            </a>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center service_card_res services_crd">
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/NFT.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">NFT</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Terraform.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Terraform</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Ethereum.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Ethereum</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Alchemy.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Alchemy</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>              
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="row border rounded-3 p-2 bg-white">
+                        <div class="col-lg-9 col-md-9 col-sm-12">
+                            <div class="row gutter_15px my-3">
+                                <div class="col-lg-12">
+                                    <div class="icon_box_all  style_two">
+                                        <div class="icon_content icon_imgs ">
+                                            <div class="">
+                                                <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
+                                                <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                            </div>
+                                            <div class="txt_content">
+                                                <h3>Cybersecurity Solutions</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <p>We provide monetary and non-monetary cyber security services to help your organization's website security. Cyber security protects business data and increases employee productivity while optimizing...</p>
+                            
+                            <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
+                                View More<i class="icon-right-arrow"></i>
+                            </a>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center service_card_res services_crd">
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/DNS Secure.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">DNS Secure</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Antivirus.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Antivirus</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Firewall.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Firewall Protect</a>
+                                </p>
+                            </div>
+                            <div class="text_box_inner">
+                                <img src="assets/images/home/Data-Backup.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
+                                <p class="card-icon-name" style="font-size: 10px">
+                                    <a href="#" rel="bookmark">Database-Backup</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>              
             </div>
         </div>
         <!--===============spacing==============-->
         <div class="pd_bottom_80"></div>
         <!--===============spacing==============-->
-    </section>
-
-    <!---Service Start--->
-    <section class="service-section  py-5">
-        <div class="container">
-            <div class="row mb-4">
-                <div class="col-lg-12">
-                    <div class="title_all_box style_two text-center dark_color">
-                        <div class="title_sections two">
-                            <!-- <div class="before_title"> Effective Solutions</div> -->
-                            <h2 class=" main-heading-stroke homeservices-stroke">Services We Offer</h2>
-                        </div>
-                    </div>
-                </div>
-                <!--===============spacing==============-->
-                <div class="mr_bottom_10"></div>
-                <!--===============spacing==============-->
-            </div>
-            <div class="row">
-                <div class="testimonial_sec position-relative style_v2_one">
-                    <!-- <div class="testimonial_box clearfix">
-                        <div class="authour_details">
-                            <div class="service_content icon_yes">
-                                <div class="row">
-                                    <div class="col-lg-10 col-md-12 col-sm-12">
-                                        <h3 class="title_service  mb-3">
-                                            Software Development
-                                        </h3>
-                                        <p class="short_desc ">
-                                            We are India's leading software development company since 2016. Our skilled professionals can provide scalable, secure, and reliable software solutions. We deliver the best custom solutions with recent IT advancements...
-                                        </p>
-                                        
-                                        <div class="mr_bottom_20"></div>
-                                        
-                                        <a href="software-develpment.php" rel="nofollow" class="theme-btn five">
-                                            View More<i class="icon-right-arrow"></i>
-                                        </a>
-                                    </div>
-                                    <div class="col-lg-2 col-md-12 col-sm-12 rounded-3 responsive_service_section" style="
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                  ">
-                                        <div class="text_box_inner">
-                                            <img src="assets/images/home/C Language.svg" alt="C Language" srcset="">
-                                            <p class="card-icon-name" style="font-size: 10px">
-                                                <a href="#" rel="bookmark">C Language</a>
-                                        </div>
-                                        <div class="text_box_inner">
-                                            <img src="assets/images/home/Python.svg" alt="Python" srcset="">
-                                            <p class="card-icon-name" style="font-size: 10px">
-                                                <a href="#" rel="bookmark">Python</a>
-                                        </div>
-                                        <div class="text_box_inner">
-                                            <img src="assets/images/home/Java.svg" alt="Java" srcset="">
-                                            <p class="card-icon-name" style="font-size: 10px">
-                                                <a href="#" rel="bookmark">Java</a>
-                                        </div>
-                                        <div class="text_box_inner">
-                                            <img src="assets/images/home/c.svg" alt="Go Language" srcset="">
-                                            <p class="card-icon-name" style="font-size: 10px">
-                                                <a href="#" rel="bookmark">C#</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="authour_details">
-                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
-                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <h3 class="title_service  mb-3">
-                                        Mobile App Development
-                                    </h3>
-                                    <p class="short_desc ">
-                                        We provide professional mobile app development services. We aim to build Android & iOS applications that incredibly complement or swap web solutions. We have delivered around 150+ projects of mobile...
-                                    </p>
-                                    
-                                    <div class="mr_bottom_20"></div>
-                                    
-                                    <a href="mobile-app-development" rel="nofollow" class="theme-btn five">View More <i class="icon-right-arrow"></i></a>
-                                </div>
-                                <div class="col-md-4 col-sm-6" style="
-                                    padding: 20px 0px 0px;
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                    border-radius: 5px;
-                                    width: 23.333333% !important;
-                                  ">
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Android.svg" alt="Android App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Android App</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/iOS.svg" alt="IOS App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">IOS App</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Flutter.svg" alt="Flutter App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Flutter App</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/React.svg" alt="React App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">React App</a>
-                                            </h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-                    <div class="testimonial_box clearfix">
-                        <div class="authour_details">
-                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
-                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <div class="row gutter_15px">
-                                        <div class="col-lg-12">
-                                            <div class="icon_box_all  style_two">
-                                                <div class="icon_content icon_imgs ">
-                                                    <div class="">
-                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
-                                                    </div>
-                                                    <div class="txt_content">
-                                                        <h3>Software Development
-                                                        </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- <h3 class="title_service mb-3">
-                                        Software Development
-                                    </h3> -->
-                                    <p class="short_desc mt-4">
-                                        We are India's leading software development company since 2016. Our skilled professionals can provide scalable, secure, and reliable software solutions. We deliver the best custom solutions with recent IT advancements...
-                                    </p>
-                                    <!--===============spacing==============-->
-                                    <div class="mr_bottom_20"></div>
-                                    <!--===============spacing==============-->
-                                    <a href="software-develpment.php" rel="nofollow" class="theme-btn five">
-                                        View More<i class="icon-right-arrow"></i>
-                                    </a>
-                                    <!-- <a href="index.html" target="_blank" rel="nofollow" class="theme-btn five"> Get
-                                          In Touch </a> -->
-                                    <!-- <a href="software-develpment" rel="nofollow" class="theme-btn five">View More</a> -->
-                                </div>
-                                <div class="col-md-4 col-sm-6" style="
-                                    padding: 20px 0px 0px;
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                    border-radius: 5px;
-                                    border: 1px solid var(--border-color-dark);
-                                    width: 23.333333% !important;
-                                  ">
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/C Language.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">C Language</a>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Python.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Python</a>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Java.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Java</a>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/c.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">C#</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="authour_details">
-                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
-                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <div class="row gutter_15px">
-                                        <div class="col-lg-12">
-                                            <div class="icon_box_all  style_two">
-                                                <div class="icon_content icon_imgs ">
-                                                    <div class="">
-                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
-                                                    </div>
-                                                    <div class="txt_content">
-                                                        <h3>Mobile App Development
-                                                        </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- <h3 class="title_service  mb-3">
-                                        Mobile App Development
-                                    </h3> -->
-                                    <p class="short_desc mt-4">
-                                        We provide professional mobile app development services. We aim to build Android & iOS applications that incredibly complement or swap web solutions. We have delivered around 150+ projects of mobile...
-                                    </p>
-                                    <!--===============spacing==============-->
-                                    <div class="mr_bottom_20"></div>
-                                    <!--===============spacing==============-->
-                                    <a href="mobile-app-development" rel="nofollow" class="theme-btn five">View More <i class="icon-right-arrow"></i></a>
-                                </div>
-                                <div class="col-md-4 col-sm-6" style="
-                                    padding: 20px 0px 0px;
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                    border-radius: 5px;
-                                    border: 1px solid var(--border-color-dark);
-                                    width: 23.333333% !important;
-                                  ">
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Android.svg" alt="Android App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Android App</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/iOS.svg" alt="IOS App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">IOS App</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Flutter.svg" alt="Flutter App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Flutter App</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/React.svg" alt="React App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">React App</a>
-                                            </h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial_box clearfix">
-                        <div class="authour_details">
-                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
-                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <div class="row gutter_15px">
-                                        <div class="col-lg-12">
-                                            <div class="icon_box_all  style_two">
-                                                <div class="icon_content icon_imgs ">
-                                                    <div class="">
-                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
-                                                    </div>
-                                                    <div class="txt_content">
-                                                        <h3>AI & Machine Learning
-                                                        </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- <h3 class="title_service  mb-3">
-                                        Artificial Intelligence & Machine Learning
-                                    </h3> -->
-                                    <p class="short_desc mt-4">
-                                        The two most revolutionary innovations today are artificial intelligence and machine learning. With the help of AI & ML, Avtar Space has identified trends, made intelligent decisions, helped most businesses succeed, and developed...
-                                    </p>
-                                    <!--===============spacing==============-->
-                                    <div class="mr_bottom_20"></div>
-                                    <!--===============spacing==============-->
-                                    <a href="artificial-intelligence-and-machine-learning" rel="nofollow" class="theme-btn five">View More <i class="icon-right-arrow"></i></a>
-                                </div>
-                                <div class="col-md-4 col-sm-6" style="
-                                    padding: 20px 0px 0px;
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                    border-radius: 5px;
-                                    border: 1px solid var(--border-color-dark);
-                                    width: 23.333333% !important;
-                                  ">
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/AI.svg" alt="Artificial Intelligence" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">AI</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Chat.svg" alt="Chat Bots" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Chat Bots</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/TensorFlow.svg" alt="Tensorflow" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Tensorflow</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Python.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Python</a>
-                                            </h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="authour_details">
-                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
-                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <div class="row gutter_15px">
-                                        <div class="col-lg-12">
-                                            <div class="icon_box_all  style_two">
-                                                <div class="icon_content icon_imgs ">
-                                                    <div class="">
-                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
-                                                    </div>
-                                                    <div class="txt_content">
-                                                        <h3>
-                                                            Website Development
-                                                        </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <h3 class="title_service  mb-3">
-                                    </h3>
-                                    <p class="short_desc mt-4">
-                                        We provide high-performing web development and website design services. Our skilled professionals create user-friendly, featured packs that provide secure and fully functional web experiences. Avtar Space offers...
-                                    </p>
-                                    <!--===============spacing==============-->
-                                    <div class="mr_bottom_20"></div>
-                                    <!--===============spacing==============-->
-                                    <a href="website-development" rel="nofollow" class="theme-btn five">View More <i class="icon-right-arrow"></i></a>
-                                </div>
-                                <div class="col-md-4 col-sm-6" style="
-                                    padding: 20px 0px 0px;
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                    border-radius: 5px;
-                                    border: 1px solid var(--border-color-dark);
-                                    width: 23.333333% !important;
-                                  ">
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/HTML.svg" alt="Android App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">HTML</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/CSS.svg" alt="IOS App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">CSS</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/JavaScript.svg" alt="Flutter App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">JavaScript</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/React.svg" alt="React App" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">React App</a>
-                                            </h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--<div class="testimonial_box clearfix">-->
-                    <!--    <div class="authour_details">-->
-                    <!--        <div class="service_content icon_yes"-->
-                    <!--            style="display: flex; justify-content: space-between;">-->
-                    <!--            <div class="col-md-7 col-sm-6" style="width: 80% !important">-->
-                    <!--                <h3 class="title_service  mb-3">-->
-                    <!--                    CRM & ERP Development-->
-                    <!--                </h3>-->
-                    <!--                <p class="short_desc ">-->
-                    <!--                    Our CRM & ERP development services help businesses streamline their operations-->
-                    <!--                    and improve their efficiency.-->
-                    <!--                    We provide customized CRM & ERP solutions that are tailored to your specific-->
-                    <!--                    business needs...-->
-                    <!--                </p>-->
-                    <!--===============spacing==============-->
-                    <!--                <div class="mr_bottom_20"></div>-->
-                    <!--===============spacing==============-->
-                    <!--                <a href="crm-erp-development" rel="nofollow" class="theme-btn five">View More</a>-->
-                    <!--            </div>-->
-                    <!--            <div class="col-md-4 col-sm-6" style="-->
-                    <!--                padding: 20px 0px 0px;-->
-                    <!--                text-align: -webkit-center;-->
-                    <!--                background: #ffffff1c;-->
-                    <!--                border-radius: 5px;-->
-                    <!--                width: 23.333333% !important;-->
-                    <!--              ">-->
-                    <!--                <div class="text_box_inner">-->
-                    <!--                    <img src="assets/images/icons/html.png" alt="HTML" srcset=""-->
-                    <!--                        style="max-width: 31.67px; height: auto">-->
-                    <!--                    <p class="card-icon-name" style="font-size: 10px">-->
-                    <!--                        <a href="#" rel="bookmark">HTML</a>-->
-                    <!--                        </h6>-->
-                    <!--                </div>-->
-                    <!--                <div class="text_box_inner">-->
-                    <!--                    <img src="assets/images/icons/php.png" alt="PHP" srcset=""-->
-                    <!--                        style="max-width: 31.67px; height: auto">-->
-                    <!--                    <p class="card-icon-name" style="font-size: 10px">-->
-                    <!--                        <a href="#" rel="bookmark">PHP</a>-->
-                    <!--                        </h6>-->
-                    <!--                </div>-->
-                    <!--                <div class="text_box_inner">-->
-                    <!--                    <img src="assets/images/icons/javascript.png" alt="JavaScript" srcset=""-->
-                    <!--                        style="max-width: 31.67px; height: auto">-->
-                    <!--                    <p class="card-icon-name" style="font-size: 10px">-->
-                    <!--                        <a href="#" rel="bookmark">JavaScript</a>-->
-                    <!--                        </h6>-->
-                    <!--                </div>-->
-                    <!--                <div class="text_box_inner">-->
-                    <!--                    <img src="assets/images/icons/java.png" alt="Java" srcset=""-->
-                    <!--                        style="max-width: 31.67px; height: auto">-->
-                    <!--                    <p class="card-icon-name" style="font-size: 10px">-->
-                    <!--                        <a href="#" rel="bookmark">Java</a>-->
-                    <!--                        </h6>-->
-                    <!--                </div>-->
-                    <!--            </div>-->
-                    <!--        </div>-->
-                    <!--    </div>-->
-                    <!--    <div class="authour_details">-->
-                    <!--        <div class="service_content icon_yes"-->
-                    <!--            style="display: flex; justify-content: space-between;">-->
-                    <!--            <div class="col-md-7 col-sm-6" style="width: 80% !important">-->
-                    <!--                <h3 class="title_service  mb-3">-->
-                    <!--                    CMS & LMS Development-->
-                    <!--                </h3>-->
-                    <!--                <p class="short_desc ">-->
-                    <!--                    Our CMS & LMS development services help businesses create content management and-->
-                    <!--                    learning management systems that cater to their unique requirements.-->
-                    <!--                    We use the latest development tools...-->
-                    <!--                </p>-->
-                    <!--===============spacing==============-->
-                    <!--                <div class="mr_bottom_20"></div>-->
-                    <!--===============spacing==============-->
-                    <!--                <a href="cms-lms-development" rel="nofollow" class="theme-btn five">View More</a>-->
-                    <!--            </div>-->
-                    <!--            <div class="col-md-4 col-sm-6" style="-->
-                    <!--                padding: 20px 0px 0px;-->
-                    <!--                text-align: -webkit-center;-->
-                    <!--                background: #ffffff1c;-->
-                    <!--                border-radius: 5px;-->
-                    <!--                width: 23.333333% !important;-->
-                    <!--              ">-->
-                    <!--                <div class="text_box_inner">-->
-                    <!--                    <img src="assets/images/icons/html.png" alt="HTML" srcset=""-->
-                    <!--                        style="max-width: 31.67px; height: auto">-->
-                    <!--                    <p class="card-icon-name" style="font-size: 10px">-->
-                    <!--                        <a href="#" rel="bookmark">HTML</a>-->
-                    <!--                        </h6>-->
-                    <!--                </div>-->
-                    <!--                <div class="text_box_inner">-->
-                    <!--                    <img src="assets/images/icons/php.png" alt="PHP" srcset=""-->
-                    <!--                        style="max-width: 31.67px; height: auto">-->
-                    <!--                    <p class="card-icon-name" style="font-size: 10px">-->
-                    <!--                        <a href="#" rel="bookmark">PHP</a>-->
-                    <!--                        </h6>-->
-                    <!--                </div>-->
-                    <!--                <div class="text_box_inner">-->
-                    <!--                    <img src="assets/images/icons/javascript.png" alt="JavaScript" srcset=""-->
-                    <!--                        style="max-width: 31.67px; height: auto">-->
-                    <!--                    <p class="card-icon-name" style="font-size: 10px">-->
-                    <!--                        <a href="#" rel="bookmark">JavaScript</a>-->
-                    <!--                        </h6>-->
-                    <!--                </div>-->
-                    <!--                <div class="text_box_inner">-->
-                    <!--                    <img src="assets/images/icons/java.png" alt="Java" srcset=""-->
-                    <!--                        style="max-width: 31.67px; height: auto">-->
-                    <!--                    <p class="card-icon-name" style="font-size: 10px">-->
-                    <!--                        <a href="#" rel="bookmark">Java</a>-->
-                    <!--                        </h6>-->
-                    <!--                </div>-->
-                    <!--            </div>-->
-                    <!--        </div>-->
-                    <!--    </div>-->
-                    <!--</div>-->
-                    <div class="testimonial_box clearfix">
-                        <div class="authour_details">
-                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
-                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <div class="row gutter_15px">
-                                        <div class="col-lg-12">
-                                            <div class="icon_box_all  style_two">
-                                                <div class="icon_content icon_imgs ">
-                                                    <div class="">
-                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
-                                                    </div>
-                                                    <div class="txt_content">
-                                                        <h3>
-                                                            UI / UX Designing
-                                                        </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <p class="short_desc mt-4">
-                                        We are a proficient UI/UX design company that offers comprehensive services. Good design is essential for digital success; we understand it very well. Our skilled team understands and addresses the needs of organizations and businesses...
-
-                                    </p>
-                                    <!--===============spacing==============-->
-                                    <div class="mr_bottom_20"></div>
-                                    <!--===============spacing==============-->
-                                    <a href="ui-ux" rel="nofollow" class="theme-btn five">View More <i class="icon-right-arrow"></i></a>
-                                </div>
-                                <div class="col-md-4 col-sm-6" style="
-                                    padding: 20px 0px 0px;
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                    border-radius: 5px;
-                                    border: 1px solid var(--border-color-dark);
-                                    width: 23.333333% !important;
-                                  ">
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Figma.svg" alt="Figma" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Figma</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Adobe XD.svg" alt="Adobe XD" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Adobe XD</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Photoshop.svg" alt="Photoshop" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Photoshop</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Illustrator.svg" alt="Illustrator" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Illustrator</a>
-                                            </h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="authour_details">
-                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
-                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <div class="row gutter_15px">
-                                        <div class="col-lg-12">
-                                            <div class="icon_box_all  style_two">
-                                                <div class="icon_content icon_imgs ">
-                                                    <div class="">
-                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
-                                                    </div>
-                                                    <div class="txt_content">
-                                                        <h3>
-                                                            Graphics Designing
-                                                        </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <h3 class="title_service  mb-3">
-                                    </h3>
-                                    <p class="short_desc mt-4">
-                                        We are a professional graphic design company, and Our design experts create unique and creative digital designs that make your business stand out from the crowd. We deliver high-quality and impressive graphics that make an impact in the market.
-
-                                    </p>
-                                    <!--===============spacing==============-->
-                                    <div class="mr_bottom_20"></div>
-                                    <!--===============spacing==============-->
-                                    <a href="graphics-design" rel="nofollow" class="theme-btn five">View More <i class="icon-right-arrow"></i></a>
-                                </div>
-                                <div class="col-md-4 col-sm-6" style="
-                                    padding: 20px 0px 0px;
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                    border: 1px solid var(--border-color-dark);
-                                    border-radius: 5px;
-                                    width: 23.333333% !important;
-                                  ">
-
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Photoshop.svg" alt="Photoshop" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Photoshop</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Illustrator.svg" alt="Illustrator" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Illustrator</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/After Effect.svg" alt="Figma" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">After Effect</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Blender.svg" alt="Adobe XD" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Blender</a>
-                                            </h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial_box clearfix">
-                        <div class="authour_details">
-                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
-                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <div class="row gutter_15px">
-                                        <div class="col-lg-12">
-                                            <div class="icon_box_all  style_two">
-                                                <div class="icon_content icon_imgs ">
-                                                    <div class="">
-                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
-                                                    </div>
-                                                    <div class="txt_content">
-                                                        <h3>
-                                                            Digital Marketing
-                                                        </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <h3 class="title_service  mb-3">
-                                    </h3>
-                                    <p class="short_desc mt-4">
-                                        Avatar Space is a diverse and dynamic advertising company that offers complete digital marketing solutions. We have experts who work strategically and drive new customers to your website via search engine optimization, social media promotion, PPC...
-                                    </p>
-                                    <!--===============spacing==============-->
-                                    <div class="mr_bottom_20"></div>
-                                    <!--===============spacing==============-->
-                                    <a href="digital-marketing" rel="nofollow" class="theme-btn five">View More <i class="icon-right-arrow"></i></a>
-                                </div>
-                                <div class="col-md-4 col-sm-6" style="
-                                    padding: 20px 0px 0px;
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                    border: 1px solid var(--border-color-dark);
-                                    border-radius: 5px;
-                                    width: 23.333333% !important;
-                                  ">
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/SEO Optimization.svg" alt="SEO" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">SEO</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Analysis.svg" alt="Analytics" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Analytics</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Social Media.svg" alt="Social Media Marketing" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Social Media</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Advertisement.svg" alt="Advertisement" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Advertisement</a>
-                                            </h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="authour_details">
-                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
-                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <div class="row gutter_15px">
-                                        <div class="col-lg-12">
-                                            <div class="icon_box_all  style_two">
-                                                <div class="icon_content icon_imgs ">
-                                                    <div class="">
-                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
-                                                    </div>
-                                                    <div class="txt_content">
-                                                        <h3>
-                                                            Cloud Computing
-                                                        </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <h3 class="title_service  mb-3">
-                                    </h3>
-                                    <p class="short_desc mt-4">
-                                        We are India's best cloud computing service provider, hosting a wide range of designs allowing you to work seamlessly. We have multiple public, private, and virtual cloud service options for various industries that offer rapid deployment...
-                                    </p>
-                                    <!--===============spacing==============-->
-                                    <div class="mr_bottom_20"></div>
-                                    <!--===============spacing==============-->
-                                    <a href="cloud-computing" rel="nofollow" class="theme-btn five">View More <i class="icon-right-arrow"></i></a>
-                                </div>
-                                <div class="col-md-4 col-sm-6" style="
-                                    padding: 20px 0px 0px;
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                    border-radius: 5px;
-                                    border: 1px solid var(--border-color-dark);
-                                    width: 23.333333% !important;
-                                  ">
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Google Cloud.svg" alt="Google Cloud" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Google Cloud</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/AWS.svg" alt="AWS" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">AWS</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Azure.svg" alt="Azure" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Azure</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Docker.svg" alt="Docker" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Docker</a>
-                                            </h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial_box clearfix">
-                        <div class="authour_details">
-                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
-                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <div class="row gutter_15px">
-                                        <div class="col-lg-12">
-                                            <div class="icon_box_all  style_two">
-                                                <div class="icon_content icon_imgs ">
-                                                    <div class="">
-                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
-                                                    </div>
-                                                    <div class="txt_content">
-                                                        <h3>
-                                                            Block Chain Development
-                                                        </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <h3 class="title_service  mb-3">
-                                    </h3>
-                                    <p class="short_desc mt-4">
-                                        We start Blockchain services with an understanding of your specific requirements. We bring the right combination of practical applications to follow blockchain innovation. The discussion emerges as new...
-
-                                    </p>
-                                    <!--===============spacing==============-->
-                                    <div class="mr_bottom_20"></div>
-                                    <!--===============spacing==============-->
-                                    <a href="blockchain-developement" rel="nofollow" class="theme-btn five">View More <i class="icon-right-arrow"></i></a>
-                                </div>
-                                <div class="col-md-4 col-sm-6" style="
-                                    padding: 20px 0px 0px;
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                    border-radius: 5px;
-                                    border: 1px solid var(--border-color-dark);
-                                    width: 23.333333% !important;
-                                  ">
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/NFT.svg" alt="NFT" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">NFT</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Terraform.svg" alt="Terraform" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Terraform</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Ethereum.svg" alt="Ethereum" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Ethereum</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Alchemy.svg" alt="Alchemy" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Alchemy</a>
-                                            </h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="authour_details">
-                            <div class="service_content icon_yes" style="display: flex; justify-content: space-between;">
-                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                    <div class="row gutter_15px">
-                                        <div class="col-lg-12">
-                                            <div class="icon_box_all  style_two">
-                                                <div class="icon_content icon_imgs ">
-                                                    <div class="">
-                                                        <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                        <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
-                                                    </div>
-                                                    <div class="txt_content">
-                                                        <h3>
-                                                            Cybersecurity Solutions
-                                                        </h3>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <h3 class="title_service  mb-3">
-                                    </h3>
-                                    <p class="short_desc mt-4">
-                                        We provide monetary and non-monetary cyber security services to help your organization's website security. Cyber security protects business data and increases employee productivity while optimizing...
-
-                                    </p>
-                                    <!--===============spacing==============-->
-                                    <div class="mr_bottom_20"></div>
-                                    <!--===============spacing==============-->
-                                    <a href="cybersecurity-solution" rel="nofollow" class="theme-btn five">View More <i class="icon-right-arrow"></i></a>
-                                </div>
-                                <div class="col-md-4 col-sm-6" style="
-                                    padding: 20px 0px 0px;
-                                    text-align: -webkit-center;
-                                    background: var(--primary-color-four);
-                                    border-radius: 5px;
-                                    border: 1px solid var(--border-color-dark);
-                                    width: 23.333333% !important;
-                                  ">
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/DNS Secure.svg" alt="DNS Secure" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">DNS Secure</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Antivirus.svg" alt="Antivirus" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Antivirus</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Firewall.svg" alt="Firewall" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Firewall Protect</a>
-                                            </h6>
-                                    </div>
-                                    <div class="text_box_inner">
-                                        <img src="assets/images/home/Data-Backup.svg" alt="Database-backup" srcset="" style="max-width: 31.67px; height: auto">
-                                        <p class="card-icon-name" style="font-size: 10px">
-                                            <a href="#" rel="bookmark">Database-Backup</a>
-                                            </h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
     </section>
     <!-- ==Services Section End -->
 
