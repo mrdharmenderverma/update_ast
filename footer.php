@@ -191,7 +191,7 @@
                             <!--===============spacing==============-->  
                             <div class="footer_copy_content">
                                 Copyright ©
-                                <span class="gradient-text">Avtar Space Technology</span>
+                                <span class="">Avtar Space Technology</span>
                                 2023. All Rights Reserved.
                             </div>
                         </div>

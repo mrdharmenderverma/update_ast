@@ -32,7 +32,7 @@
                                         <ul id="myNavbar" class="navbar_nav">
                                             <li
                                                 class="menu-item menu-item-has-children active dropdown_full position-static mega_menu nav-item">
-                                                <a href="index.php" class="test"> Home </a>
+                                                <a href="index.php" class="#000"> Home </a>
                                             </li>
                                             <li class="menu-item menu-item-has-children dropdown nav-item">
                                                 <a href="#" class="dropdown-toggle nav-link ">
@@ -124,15 +124,15 @@
                                             </li>
                                             <li
                                                 class="menu-item menu-item-has-children active dropdown_full position-static mega_menu nav-item">
-                                                <a href="portfolio.php" class="test">Our Portfolio</a>
+                                                <a href="portfolio.php" class="#000">Our Portfolio</a>
                                             </li>
                                             <li
                                                class="menu-item menu-item-has-children active dropdown_full position-static mega_menu nav-item">
-                                               <a href="all-blogs.php" class="test">Blogs</a>
+                                               <a href="all-blogs.php" class="#000">Blogs</a>
                                             </li>
                                             <li
                                                 class="menu-item menu-item-has-children active dropdown_full position-static mega_menu nav-item">
-                                                <a href="hire-developer.php" class="test">Hire Developer</a>
+                                                <a href="hire-developer.php" class="#000">Hire Developer</a>
                                             </li>
                                             
                                         </ul>
@@ -141,7 +141,7 @@
                                 <div class="header_right_content">
                                     <ul>
                                         <li>
-                                        <a href="https://www.linkedin.com/company/avtar-space-technologies/" class="test" target="_blank">
+                                        <a href="https://www.linkedin.com/company/avtar-space-technologies/" class="#000" target="_blank">
                                             <span class="fa fa-linkedin"></span>
                                             <small>LinkedIn</small>
                                         </a>

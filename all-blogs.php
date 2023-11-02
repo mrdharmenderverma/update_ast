@@ -41,7 +41,7 @@ include_once 'header.php'; ?>
 
                                     <p style="margin-top: 2%; font-size: 16px;">A collection of strong and capable technologies called MERN Stack is used to create sophisticated online web-based applications ...</p>
 
-                                    <a href="software-develpment.php" rel="nofollow" class="theme-btn five my-4">
+                                    <a href="blog-details.php" rel="nofollow" class="theme-btn five my-4">
                                         View More<i class="icon-right-arrow"></i>
                                     </a>
                                 </div>
@@ -98,7 +98,7 @@ include_once 'header.php'; ?>
                                     <p style="margin-top: 2%; font-size: 12px;" class="col-lg-6 ">250 Views
                                     </p>
                                 </div>
-                                <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
+                                <a href="blog-details.php" rel="nofollow" class="theme-btn five mb-3">
                                     View More<i class="icon-right-arrow"></i>
                                 </a>
                                 <!-- <div class="row">
@@ -109,7 +109,7 @@ include_once 'header.php'; ?>
                                         </p>
                                     </div>
                                     <div class="col-md-6">
-                                        <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
+                                        <a href="blog-details.php" rel="nofollow" class="theme-btn five mb-3">
                                             View More<i class="icon-right-arrow"></i>
                                         </a>
                                     </div>
@@ -138,7 +138,7 @@ include_once 'header.php'; ?>
                                     <p style="margin-top: 2%; font-size: 12px;" class="col-lg-6 ">250 Views
                                     </p>
                                 </div>
-                                <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
+                                <a href="blog-details.php" rel="nofollow" class="theme-btn five mb-3">
                                     View More<i class="icon-right-arrow"></i>
                                 </a>
                             </div>
@@ -165,7 +165,7 @@ include_once 'header.php'; ?>
                                     <p style="margin-top: 2%; font-size: 12px;" class="col-lg-6 ">250 Views
                                     </p>
                                 </div>
-                                <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
+                                <a href="blog-details.php" rel="nofollow" class="theme-btn five mb-3">
                                     View More<i class="icon-right-arrow"></i>
                                 </a>
                             </div>
@@ -194,7 +194,7 @@ include_once 'header.php'; ?>
                                     <p style="margin-top: 2%; font-size: 12px;" class="col-lg-6 ">250 Views
                                     </p>
                                 </div>
-                                <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
+                                <a href="blog-details.php" rel="nofollow" class="theme-btn five mb-3">
                                     View More<i class="icon-right-arrow"></i>
                                 </a>
 
@@ -223,7 +223,7 @@ include_once 'header.php'; ?>
                                     <p style="margin-top: 2%; font-size: 12px;" class="col-lg-6 ">250 Views
                                     </p>
                                 </div>
-                                <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
+                                <a href="blog-details.php" rel="nofollow" class="theme-btn five mb-3">
                                     View More<i class="icon-right-arrow"></i>
                                 </a>
                             </div>
@@ -251,7 +251,7 @@ include_once 'header.php'; ?>
                                     <p style="margin-top: 2%; font-size: 12px;" class="col-lg-6 ">250 Views
                                     </p>
                                 </div>
-                                <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
+                                <a href="blog-details.php" rel="nofollow" class="theme-btn five mb-3">
                                     View More<i class="icon-right-arrow"></i>
                                 </a>
                             </div>

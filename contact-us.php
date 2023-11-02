@@ -1,114 +1,136 @@
 <!-- Header File -->
-<?php $current_page_url="https://avtarspace.com/contact-us"; $title = 'AST | Contact Us'; include_once 'header.php'; ?>
+<?php $current_page_url = "https://avtarspace.com/contact-us";
+$title = 'AST | Contact Us';
+include_once 'header.php'; ?>
 <!-- Header File -->
 <!--===============PAGE CONTENT ==============-->
 <div id="content" class="site-content">
-    <section class="single_banner style_one" style="background-image: url(assets/images/sliders/slider-3-bg.png)">
+    <section class="">
         <!--===============spacing==============-->
-       <div class="pd_top_90"></div>
-       <!--===============spacing==============-->
+        <div class="pd_top_90"></div>
+        <!--===============spacing==============-->
         <div class="container">
-            <div class="row">
+            <div class="row mb-4 text-center">
                 <div class="title_sections ">
                     <div class="content_box_cn style_one">
-                        <div class="txt_content">
-                            <h2 class="">Get in Touch</h2>
+                        <div class="">
+                            <h2 class="">Contact us</h2>
                             <div class="pd_bottom_10"></div>
                         </div>
                     </div>
-                    <div class="before_title gradient-text">Send us a message and we'll get back to you shortly</div>
+                    <div class="before_title fs-5">Send us a message and we'll get back to you shortly</div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-xl-6 col-lg-7 mb-5 mb-lg-0 mb-xl-0">
+            <div class="row border rounded-3 p-5">
+                <div class="col-xl-12 col-lg-12 mb-5 mb-lg-0 mb-xl-0">
                     <form action="include/thank-you.php" method="POST" class="mt-5">
-                        <div class="mb-3">
-                            <label for="InputName" class="form-label">Name</label>
-                            <input type="text" name="name"  class="form-control_input" placeholder="Your Name" required>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="InputName" class="form-label">Name</label>
+                                    <input type="text" name="name" class="form-control_input" placeholder="Your Name" required>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="InputContact" class="form-label">Contact No.</label>
+                                    <input type="number" name="phone" class="form-control_input" placeholder="Enter your phone no." required>
+                                </div>
+                            </div>
                         </div>
-                        <div class="mb-3">
-                            <label for="InputEmail" class="form-label">Email address</label>
-                            <input type="email" name="email" class="form-control_input" placeholder="Hello@gmail.com" required>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="InputEmail" class="form-label">Email address</label>
+                                    <input type="email" name="email" class="form-control_input" placeholder="Hello@gmail.com" required>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="InputAddress" class="form-label">Address</label>
+                                    <input type="text" name="address" class="form-control_input" placeholder="Your Address" required>
+                                </div>
+                            </div>
                         </div>
-                        <div class="mb-3">
-                            <label for="InputMessage" class="form-label">Message</label>
-                            <input type="text" class="form-control_input" name="message"  placeholder="Start typing here..." required>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <!-- <label for="customRange1" class="form-label">Example range</label>
+                                <input type="range" class="form-range" id="customRange1"> -->
+                                <div class="mb-3">
+                                    <label for="InputBudget" class="form-label">Project Budget : </label><input type="text" id="put" placeholder="Example  :   $2000" class="form-control_input">
+                                    <input type="range" min="5000" max="50000" value="50" name="budget" id="get" class="form-control_input" onchange="budgetValue()" required>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-4 form-check">
+                                    <input type="checkbox" class="form-check-input" id="CheckBox-1" required>
+                                    <label class="form-check-label" for="CheckBox-1">I would like to receive news and
+                                        updates from you once in a while</label>
+                                </div>
+                                <div class="mb-3 form-check">
+                                    <input type="checkbox" class="form-check-input" id="CheckBox-2" required>
+                                    <label class="form-check-label" for="CheckBox-2">I give consent to the processing of my personal data given in the contact <br> form above as well as receiving commercial
+                                        and marketing communications <br> under the terms and conditions of Exoft <a href="policy.php" class="ac-c">Privacy Policy.</a></label>
+                                </div>
+                            </div>
                         </div>
-                        <div class="mb-4 form-check">
-                            <input type="checkbox" class="form-check-input" id="CheckBox-1" required>
-                            <label class="form-check-label" for="CheckBox-1">I would like to receive news and
-                                updates from you once in a while</label>
+                        <div class="row" style="margin-top: -50px;">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="InputMessage" class="form-label">Message</label>
+                                    <input type="text" class="form-control_input" name="message" placeholder="Start typing here..." required>
+                                </div>
+                            </div>
                         </div>
-                        <div class="mb-3 form-check">
-                            <input type="checkbox" class="form-check-input" id="CheckBox-2" required>
-                            <label class="form-check-label" for="CheckBox-2">I give consent to the processing of my personal data given in the contact <br> form above as well as receiving commercial
-                                and marketing communications <br> under the terms and conditions of Exoft <a href="policy.php" class="ac-c">Privacy Policy.</a></label>
-                        </div>
-                        <div class="mb-3 d-flex" style="">
-                            <!--<input type="file" id="upload" hidden />-->
-                            <!--<label for="upload" class="Upload_icon"><i class="ri-attachment-fill"></i> Upload File Here</label>-->
-                            <!--<input type="submit" class="btn-hover-my color-3" style="margin-left: 70px; margin-top: 10px;">-->
+                        <div class="mb-3 d-flex">
                             <button type="submit" name="submit" class="btn-hover-my color-3" style="margin-top: 10px;">Submit</button>
                         </div>
                     </form>
                 </div>
-                <div class="col-xl-1 col-lg-7 mb-5 mb-lg-0 mb-xl-0"></div>
-
-                <div class="col-xl-5 col-lg-5 mb-5 mb-lg-0 mb-xl-0" style="padding-top:75px">
-                    <div class="row mb-5" style="margin-top: 2REM;">
-                        <div class="contact_card">
-                            <img src="assets/images/boy.png" class="card-img-top" alt="..." style="
-                            max-width: 40%; margin-top: -193px; margin-left: 225px;">
-                            <div class="card-body" style="margin-top: -68px;">
-                                <h5 class="card-title">Sibten Umar</h5>
-                                <p class="card-sm-text">Sr. Consultant Manager</p>
-                                <!--<p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting-->
-                                <!--    industry.</p>-->
-                                <p class="card-text"><i class="ri-mail-fill"></i> info@avtarspace.com </p>
-                            </div>
-                        </div>
+            </div>
+        </div>
+        <!--===============spacing==============-->
+        <div class="pd_top_90"></div>
+        <!--===============spacing==============-->
+    </section>
+    <section class="newsteller style_one bg_light_1">
+        <!--===============spacing==============-->
+        <div class="pd_top_40"></div>
+        <!--===============spacing==============-->
+        <div class="auto-container">
+            <div class="row">
+                <div class="footer_widgets wid_tit style_two">
+                    <div class="">
+                        <h2 class="">Our Office</h2>
                     </div>
-                    <div class="row">
-                        <div class="contact_card">
-                            <div class="card-body">
-                                <h5 class="card-title">Contact Us</h5>
-                                <p class="card-text"><i class="fa fa-location-arrow"></i> &nbsp<strong> Registered Address:</strong> 827-830, 8th floor, Gaur City centre, Greater Noida West, Uttar Pradesh - 201301</p>
-                                <p class="card-text"><i class="fa fa-location-arrow"></i> &nbsp<strong> Branch Address:</strong> 87 North road, Dorset, England, Poole, BH14 0LT</p>
-                                <p class="card-text"><i class="fa fa-location-arrow"></i> &nbsp <strong> Branch Address:</strong> 68 Curcular road, 02-01, Singapore 049422</p>
-                                <p class="card-text"><i class="icomoon icon-phone"></i> <a href="tel:+91-9818699556">+91 8398021095, +91 9518268109</a></p>
-                                <p class="card-text mb-4"><i class="fa fa-envelope"></i> <a href="mailto:info@avtarspace.com">info@avtarspace.com</a></p>
-                                <!--<div class="social_media_v_one style_two">-->
-                                <!--    <ul>-->
-                                <!--        <li>-->
-                                <!--            <a href="#"> <span class="fa fa-facebook"></span>-->
-                                <!--                <small>facebook</small>-->
-                                <!--            </a>-->
-                                <!--        </li>-->
-                                <!--        <li>-->
-                                <!--            <a href="#"> <span class="fa fa-twitter"></span>-->
-                                <!--                <small>twitter</small>-->
-                                <!--            </a>-->
-                                <!--        </li>-->
-                                <!--        <li>-->
-                                <!--            <a href="#"> <span class="fa fa-skype"></span>-->
-                                <!--                <small>skype</small>-->
-                                <!--            </a>-->
-                                <!--        </li>-->
-                                <!--        <li>-->
-                                <!--            <a href="#"> <span class="fa fa-instagram"></span>-->
-                                <!--                <small>instagram</small>-->
-                                <!--            </a>-->
-                                <!--        </li>-->
-                                <!--    </ul>-->
-                                <!--</div>-->
-                            </div>
-                        </div>
-                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-3">
+                    <img src="assets\images\footer\india-img.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-3">
+                    <img src="assets\images\footer\singapore-img.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-3">
+                    <img src="assets\images\footer\england-img.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-3">
+                    <img src="assets\images\footer\india-img.png" alt="">
                 </div>
             </div>
         </div>
+        <!--===============spacing==============-->
+        <div class="pd_bottom_40"></div>
+        <!--===============spacing==============-->
     </section>
+
 </div>
+
+<script>
+    function budgetValue() {
+        var get = document.getElementById("get").value;
+        document.getElementById('put').value = get;
+    }
+</script>
 
 
 
@@ -137,19 +159,19 @@
     }
 
     .form-control_input {
-        color: #fff !important;
+        color: #000 !important;
         font-weight: 200;
         width: 75% !important;
         background: none !important;
         border: none !important;
         outline: none !important;
-        border-bottom: 1px solid #fff !important;
+        border-bottom: 1px solid #000 !important;
         border-radius: 0px !important;
         padding: 0px !important;
     }
 
     .ac-c {
-        background: linear-gradient(309deg, #B96DF4 0%, #DE84DA 35.42%, rgba(155, 153, 254, 0.90) 70.04%, #5BBBD9 100%);
+        background: var(--primary-color-one);
         background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -201,12 +223,12 @@
         background: rgba(255, 255, 255, 0.10);
         background-clip: border-box;
         border-radius: 0.75rem;
-        color: #fff;
+        color: #000;
 
     }
 
     .contact_card .card-title {
-        color: #fff;
+        color: #000;
         font-size: 1.7rem;
     }
 
@@ -219,7 +241,7 @@
     }
 
     .card-text {
-        color: #fff;
+        color: #000;
         font-size: 0.9rem;
     }
 </style>

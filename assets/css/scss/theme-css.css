@@ -6544,9 +6544,9 @@ body.single-header {
   border-radius: 0px 10px 0px 10px;
 }
 
-.fixed-header li>a.nav-link {
+/* .fixed-header li>a.nav-link {
   color: #3d1c5a !important;
-}
+} */
 
 .fixed-header li>a.test {
   color: #3d1c5a !important;
@@ -9636,7 +9636,7 @@ header .flaticon-list {
   font-family: 'Poppins', sans-serif !important;
   font-size: 66px;
   line-height: 82px;
-  font-weight: 800;
+  font-weight: 600;
   margin-bottom: 20px;
 }
 
@@ -23786,12 +23786,12 @@ header .flaticon-list {
 }
 
 .social_media_v_one.style_two ul li a {
-  background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  /* background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
   background: -webkit-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
-  background: linear-gradient(309deg, #B96DF4 0%, #DE84DA 35.42%, rgba(155, 153, 254, 0.90) 70.04%, #5BBBD9 100%);
+  background: linear-gradient(309deg, #B96DF4 0%, #DE84DA 35.42%, rgba(155, 153, 254, 0.90) 70.04%, #5BBBD9 100%); */
   /*background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f09433', endColorstr='#bc1888', GradientType=1);
-  color: transparent;
+  color: var(--color-white);
   -webkit-background-clip: text;
   background-clip: text;
 }
@@ -30218,7 +30218,7 @@ form .wpcf7-response-output {
 }
 
 .foo_subscribe.style_one .shortcodes input[type="submit"] {
-  background: var(--gradient, linear-gradient(309deg, #B96DF4 0%, #DE84DA 35.42%, rgba(155, 153, 254, 0.90) 70.04%, #5BBBD9 100%));
+  background: var(--text-color-light);
   position: absolute;
   width: auto;
   height: 45px;

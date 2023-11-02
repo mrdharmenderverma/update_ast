@@ -196,7 +196,7 @@ img.vert-move {
     content: 'Avtar';
     width: 100%;
     left: 50%;
-    -webkit-text-stroke: .5px var(--primary-color-two);
+    -webkit-text-stroke: .5px var(--color-white);
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
     position: absolute;

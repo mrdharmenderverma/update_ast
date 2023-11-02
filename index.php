@@ -35,7 +35,7 @@
                         </ul> -->
                     </div>
                     <!--===============spacing==============-->
-                    <div class="pd_bottom_80"></div>
+                    <div class="pd_bottom_80" ></div>
                     <!--===============spacing==============-->
                 </div>
                 <!-- <div class="col-lg-6 hidden-md image_column">
