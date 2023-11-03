@@ -5,6 +5,9 @@ include_once 'header.php'; ?>
 <!--===============PAGE CONTENT ==============-->
 <div id="content" class="site-content">
     <section class="style_one">
+        <!-- ======Spacing======== -->
+        <div class="pd_bottom_30"></div>
+        <!-- ======Spacing======== -->
         <div class="container">
             <div class="col-lg-12">
                 <div class="title_all_box style_one text-center dark_color">

@@ -5,10 +5,13 @@ include_once 'header.php'; ?>
 <!-- Header File -->
 <!--===============PAGE CONTENT ==============-->
 <div id="content" class="site-content">
-    <section class="single_banner style_one">
-        <div class="container">
+    <section class="">
+        <!-- ======Spacing======== -->
+        <div class="pd_bottom_30"></div>
+        <!-- ======Spacing======== -->
+        <div class="container-fluid">
             <div class="row align-items-center">
-                <div class="col-lg-6 col-mb-12">
+                <div class="col-lg-4 offset-lg-2 col-mb-12">
                     <div class="title_all_box style_one content_box_cn">
                         <div class="title_sections ">
                             <div class="content_box_cn style_one">
@@ -34,7 +37,7 @@ include_once 'header.php'; ?>
                     <!--===============spacing==============-->
                     <div class="pd_bottom_20"></div>
                     <!--===============spacing==============-->
-                    
+
                 </div>
                 <div class="col-lg-6 col-mb-12 mb-lg-5 mb-xl-0">
                     <div class="image_boxes style_three">

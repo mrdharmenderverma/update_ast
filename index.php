@@ -2,8 +2,102 @@
 <?php include_once 'header.php'; ?>
 <!-- Header File -->
 <!--===============PAGE CONTENT ==============-->
+<style>
+    .hero_bg_img {
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 100%
+    }
+    @media(max-width: 1350px){
+        .home_banner_responsive .pd_bottom_80{
+            padding-bottom: 30px !important;
+        }
+    }
+    @media (max-width:1200px) {
+        .hero_bg_img{
+            margin-top: 2%;
+        }
+        .home_banner_responsive .text-responsive{
+            width: 70%;
+        }        
+
+    }
+    @media (max-width:1024px) {
+        .hero_bg_img{
+            margin-top: 5%;
+        }
+        .single_banner.style_one{
+            padding-top: 40px !important;
+        }
+    }
+    @media (max-width:950px) {
+        .hero_bg_img{
+            margin-top: 8%;
+        }
+        .single_banner.style_one{
+            padding-top: 10px !important;
+        }
+    }
+    @media (max-width:768px) {
+        .hero_bg_img{
+            margin-top: 10%;
+        }
+        
+        
+    }
+    @media (max-width:700px) {
+        .hero_bg_img{
+            margin-top: 15%;
+        }
+        .home_banner_responsive .text-responsive{
+            width: 70%;
+        }
+        .home_banner_responsive .text-responsive p{
+            font-size: 1rem;
+        }
+    }
+    @media (max-width:600px) {
+        .hero_bg_img{
+            margin-top: 20%;
+        }
+        .home_banner_responsive .text-responsive{
+            width: 100%;
+        }
+        
+    }
+    @media (max-width:500px) {
+        .hero_bg_img{
+            margin-top: 30%;
+        }
+        .home_banner_responsive .text-responsive{
+            width: 100%;
+        }
+        .home_banner_responsive .slider_content h1{
+            font-size: 2rem !important;
+            line-height: 2.5rem !important;
+        }
+        .home_banner_responsive .text-responsive p{
+            font-size: 0.8rem;
+        }
+        
+    }
+    @media (max-width:400px) {
+        .hero_bg_img{
+            margin-top: 35%;
+        }
+        .home_banner_responsive .slider_content h1{
+            font-size: 1.7rem !important;
+            line-height: 2.5rem !important;
+        }
+    }
+</style>
 <div id="content" class="site-content">
-    <section class="single_banner style_one" style="background-image: url(assets/images/sliders/slider-3-bg.svg);">
+    <!-- <section class="single_banner style_one home_banner_responsive" style="background-image: url(assets/images/sliders/slider-3-bg.svg); background-repeat: no-repeat; background-size: contain; width:100%"> -->
+    <section class="single_banner style_one home_banner_responsive">
+        <div class="hero_bg_img">
+            <img src="assets/images/sliders/slider-3-bg.svg" alt="">
+        </div>
         <div class="container">
             <div class="row d-flex align-items-center text-center">
                 <div class="col-lg-10 offset-lg-1">
@@ -15,9 +109,11 @@
                         <h1 class="">
                             Fuel up Your Business with our IT services
                         </h1>
-                        <p class="description ">
-                            Unlock peak performance and trim expenses with our game-changing digital IT services and solutions.
-                        </p>
+                        <div class="text-responsive">
+                            <p class="description ">
+                                Unlock peak performance and trim expenses with our game-changing digital IT services and solutions.
+                            </p>
+                        </div>
                         <div class="pd_top_20"></div>
                         <!-- <ul class="d_inline_block">
                             <li>
@@ -35,7 +131,20 @@
                         </ul> -->
                     </div>
                     <!--===============spacing==============-->
-                    <div class="pd_bottom_80" ></div>
+                    <div class="pd_bottom_80"></div>
+                    <!--===============spacing==============-->
+                    <!--===============spacing==============-->
+                    <div class="pd_bottom_80"></div>
+                    <!--===============spacing==============-->
+                    <!--===============spacing==============-->
+                    <div class="pd_bottom_80"></div>
+                    <!--===============spacing==============-->
+                    <!--===============spacing==============-->
+                    <div class="pd_bottom_80"></div>
+                    <!--===============spacing==============-->
+                    <!--===============spacing==============-->
+                    <div class="pd_bottom_80"></div>
+                    <div class="pd_bottom_80"></div>
                     <!--===============spacing==============-->
                 </div>
                 <!-- <div class="col-lg-6 hidden-md image_column">
@@ -100,7 +209,7 @@
     </section>
     <!---About End--->
 
-     <!---Service Start--->
+    <!---Service Start--->
     <section class="about-section bg_light_1">
         <!--===============spacing==============-->
         <div class="pd_bottom_80"></div>
@@ -224,7 +333,7 @@
                             </div>
                         </div>
                     </div>
-                </div>              
+                </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
                     <div class="row border rounded-3 p-2 bg-white">
                         <div class="col-lg-9 col-md-9 col-sm-12">
@@ -275,7 +384,7 @@
                             </div>
                         </div>
                     </div>
-                </div>              
+                </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
                     <div class="row border rounded-3 p-2 bg-white">
                         <div class="col-lg-9 col-md-9 col-sm-12">
@@ -326,7 +435,7 @@
                             </div>
                         </div>
                     </div>
-                </div>              
+                </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
                     <div class="row border rounded-3 p-2 bg-white">
                         <div class="col-lg-9 col-md-9 col-sm-12">
@@ -377,7 +486,7 @@
                             </div>
                         </div>
                     </div>
-                </div>              
+                </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
                     <div class="row border rounded-3 p-2 bg-white">
                         <div class="col-lg-9 col-md-9 col-sm-12">
@@ -397,7 +506,7 @@
                                 </div>
                             </div>
                             <p>We are a professional graphic design company, and Our design experts create unique and creative digital designs that make your business stand out from the crowd. We deliver high-quality and impressive graphics that make an impact in the market. </p>
-                            
+
                             <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
                                 View More<i class="icon-right-arrow"></i>
                             </a>
@@ -429,7 +538,7 @@
                             </div>
                         </div>
                     </div>
-                </div>              
+                </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
                     <div class="row border rounded-3 p-2 bg-white">
                         <div class="col-lg-9 col-md-9 col-sm-12">
@@ -449,7 +558,7 @@
                                 </div>
                             </div>
                             <p>We start Blockchain services with an understanding of your specific requirements. We bring the right combination of practical applications to follow blockchain innovation. The discussion emerges as new...</p>
-                            
+
                             <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
                                 View More<i class="icon-right-arrow"></i>
                             </a>
@@ -481,7 +590,7 @@
                             </div>
                         </div>
                     </div>
-                </div>              
+                </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
                     <div class="row border rounded-3 p-2 bg-white">
                         <div class="col-lg-9 col-md-9 col-sm-12">
@@ -501,7 +610,7 @@
                                 </div>
                             </div>
                             <p>We provide monetary and non-monetary cyber security services to help your organization's website security. Cyber security protects business data and increases employee productivity while optimizing...</p>
-                            
+
                             <a href="software-develpment.php" rel="nofollow" class="theme-btn five mb-3">
                                 View More<i class="icon-right-arrow"></i>
                             </a>
@@ -533,7 +642,7 @@
                             </div>
                         </div>
                     </div>
-                </div>              
+                </div>
             </div>
         </div>
         <!--===============spacing==============-->

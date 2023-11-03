@@ -6,6 +6,9 @@ include_once 'header.php'; ?>
 <!--===============PAGE CONTENT ==============-->
 <div id="content" class="site-content">
    <section>
+      <!-- ======Spacing======== -->
+      <div class="pd_bottom_30"></div>
+      <!-- ======Spacing======== -->
       <div class="container">
          <div class="row align-items-center">
             <div class="col-xl-6 col-lg-12">
@@ -25,7 +28,7 @@ include_once 'header.php'; ?>
                      <!-- <a href="contact-us" target="_blank" rel="nofollow" class="btn-hover-my color-3">
                         Contact Us</a> -->
                      <a href="#" target="_blank" rel="nofollow" class="theme-btn one  animated _zoomIn">
-                              Get Quotes </a>
+                        Get Quotes </a>
                   </div>
                </div>
                <!--===============spacing==============-->

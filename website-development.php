@@ -6,6 +6,9 @@ include_once 'header.php'; ?>
 <!--===============PAGE CONTENT ==============-->
 <div id="content" class="site-content">
     <section>
+        <!-- ======Spacing======== -->
+        <div class="pd_bottom_30"></div>
+        <!-- ======Spacing======== -->
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-12">

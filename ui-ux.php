@@ -6,6 +6,9 @@ include_once 'header.php'; ?>
 <!--===============PAGE CONTENT ==============-->
 <div id="content" class="site-content">
     <section class="">
+        <!-- ======Spacing======== -->
+        <div class="pd_bottom_30"></div>
+        <!-- ======Spacing======== -->
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-12">
@@ -34,7 +37,7 @@ include_once 'header.php'; ?>
                     <!--===============spacing==============-->
                     <div class="pd_bottom_20"></div>
                     <!--===============spacing==============-->
-                    
+
                 </div>
                 <div class="col-lg-6 col-mb-6 mb-lg-5 mb-xl-0">
                     <div class="image_boxes style_three">

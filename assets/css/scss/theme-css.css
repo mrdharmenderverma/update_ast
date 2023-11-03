@@ -9634,9 +9634,9 @@ header .flaticon-list {
 
 .single_banner.style_one .slider_content h1 {
   font-family: 'Poppins', sans-serif !important;
-  font-size: 66px;
-  line-height: 82px;
-  font-weight: 600;
+  font-size: 56px;
+  line-height: 62px;
+  font-weight: 500;
   margin-bottom: 20px;
 }
 
@@ -19441,6 +19441,7 @@ header .flaticon-list {
   display: flex;
   overflow: hidden;
   border-radius: 5px;
+  gap: 1.5rem;
   /* background: #ffffff1c; */
   /* box-shadow: var(--box-shadow-two); */
   /* margin: 10px; */
@@ -19451,7 +19452,7 @@ header .flaticon-list {
   min-width: 50%;
   overflow: hidden;
   /* margin-bottom: 10px; */
-  margin: 5px;
+  /* margin: 5px; */
   border: 1px solid rgba(0, 17, 22, 0.10);
   border-radius: 10px;
 }
@@ -19476,7 +19477,7 @@ header .flaticon-list {
   box-shadow: 0px 2px 4px 0px rgba(26, 60, 102, 0.03), 0px -2px 4px 0px rgba(26, 60, 102, 0.03);
   /* margin-left: 10px;
   margin-bottom: 10px; */
-  margin: 5px;
+  /* margin: 5px; */
   border-radius: 10px;
 }
 
@@ -34747,7 +34748,7 @@ body.side_menu_toggled .style-switcher {
 
   .slider_version_v3.style_one .slide-item-content .slider_content {
     padding: 0px 0px 50px !important;
-  }
+  }  
 }
 
 @media (max-width: 768px) {
@@ -35772,7 +35773,7 @@ body.side_menu_toggled .style-switcher {
   display: flex; 
   background: var(--primary-color-four); 
   flex-direction: column; 
-  justify-content: center; 
+  justify-content: space-evenly; 
   align-items: center;
 }
 @media (max-width:767px) {
@@ -35781,5 +35782,31 @@ body.side_menu_toggled .style-switcher {
       display: flex !important;
       justify-content: space-around !important;
       padding-top: 1.2rem;
+  }
+}
+
+@media(max-width: 1510px){  
+  .home_banner_responsive .text-responsive{
+    width: 50%;
+    margin: auto;
+  }
+  .home_banner_responsive .slider_content h1{
+    font-size: 40px !important;
+  }
+  .single_banner.style_one .home_banner_responsive{
+    padding-top: 50px !important;
+  }
+  .home_banner_responsive .pd_top_90{
+    padding-top: 0px !important;
+  }
+}
+@media (max-width:1240px){
+  .home_banner_responsive .single_banner.style_one .slider_content h1{
+    font-size:20px ;
+
+  }
+  
+  .home_banner_responsive{
+    padding-bottom: 0px;
   }
 }

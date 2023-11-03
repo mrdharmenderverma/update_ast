@@ -7,7 +7,7 @@ include_once 'header.php'; ?>
 <div id="content" class="site-content">
     <section class="">
         <!-- spacing -->
-        <div class="pd_top_80"></div>
+        <div class="pd_top_30"></div>
         <!-- spacing -->
         <div class="container">
             <div class="row align-items-center">
