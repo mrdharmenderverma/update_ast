@@ -107,11 +107,11 @@
                         <div class="footer_widgets foo_subscribe light_color style_one">
                             <div class="item_subscribe with_text">
                                 <div class="shortcodes">
-                                    <form class="mc4wp-form" method="post" data-name="Subscibe">
+                                    <form class="mc4wp-form " method="post" data-name="Subscibe">
                                         <div class="mc4wp-form-fields">
                                             <input type="email" name="EMAIL" placeholder="Enter You Email Id"
                                                 required="" />
-                                            <input type="submit" value="Sign up" />
+                                            <input type="submit" value="Sign up" class="btn-hover-my"/>
                                         </div>
                                     </form>
                                 </div>
@@ -136,7 +136,7 @@
                         <img src="assets\images\footer\england-img.png" alt="">
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 mb-3">
-                        <img src="assets\images\footer\india-img.png" alt="">
+                        <img src="assets\images\footer/Romania.png" alt="">
                     </div>
                 </div>
             </div>

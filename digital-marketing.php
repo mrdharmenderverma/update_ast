@@ -11,7 +11,7 @@ include_once 'header.php'; ?>
         <!-- ======Spacing======== -->
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-12">
+                <div class="col-lg-6 col-mb-6 mb-lg-5 mb-xl-0">
                     <div class="title_all_box style_one content_box_cn">
                         <div class="title_sections ">
                             <div class="content_box_cn style_one">
@@ -63,7 +63,7 @@ include_once 'header.php'; ?>
                         <img src="assets/images/service/digital-img-2.svg" class="img-fluid object-fit-cover" alt="digital marketing include">
                     </div>
                 </div>
-                <div class="col-lg-6 col-mb-12">
+                <div class="col-lg-5 offset-lg-1 col-md-12">
                     <div class="title_all_box style_one content_box_cn">
                         <div class="title_sections ">
                             <div class="content_box_cn style_one">

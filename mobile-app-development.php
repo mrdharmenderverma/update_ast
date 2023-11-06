@@ -65,7 +65,7 @@ include_once 'header.php'; ?>
                         <img src="assets/images/service/App developments.svg" class="img-fluid object-fit-cover" alt="development in">
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-12">
+                <div class="col-lg-5 offset-lg-1 col-md-12">
                     <div class="title_all_box style_one content_box_cn">
                         <div class="title_sections ">
                             <div class="content_box_cn style_one">
@@ -206,7 +206,7 @@ include_once 'header.php'; ?>
                     <div class="pd_bottom_20"></div>
                     <!--===============spacing==============-->
                 </div>
-                <div class="col-lg-6 col-mb-12 mb-xl-0">
+                <div class="col-lg-6 col-md-12">
                     <div class="title_all_box style_one content_box_cn">
                         <div class="title_sections " style="margin-left:10%">
                             <div class="content_box_cn style_one">

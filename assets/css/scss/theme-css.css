@@ -1748,7 +1748,7 @@ body button[type="submit"] {
   border: 1px solid var(--border-color-one);
   /*background: var(--primary-color-one);*/
   font-family: var(--creote-family-one);
-  color: #fff;
+  color: var(--color-white);
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -1808,7 +1808,7 @@ body button[type="submit"] {
 a {
   text-decoration: none;
   cursor: pointer;
-  color: #000;
+  color: var(--link-color-dark);
   transition: 0.5s ease-in-out !important;
   -moz-transition: 0.5s ease-in-out !important;
   -o-transition: 0.5s ease-in-out !important;
@@ -1924,7 +1924,7 @@ body.error404 .left-sidebar .content-area {
 }
 
 .page_header_default .page_header_content .banner_title_inner .title_page {
-  color: #fff;
+  color: var(--color-white);
   font-size: 60px;
   line-height: 70px;
   font-weight: 700;
@@ -3484,8 +3484,8 @@ body .enabled_custom_title .title_page .main_tit {
   font-size: 18px;
   line-height: 50px;
   font-weight: 400;
-  color: #fff !important;
-  background: #321F65;
+  color: var(--link-color-dark) !important;
+  background: var(--color-white);
   font-family: var(--creote-family-one);
   transition: 0.5s ease-in-out;
   -ms-transition: 0.5s ease-in-out;
@@ -3584,7 +3584,7 @@ body .enabled_custom_title .title_page .main_tit {
   border-radius: 50px;
   line-height: 40px;
   text-align: center;
-  border: 1px solid var(--border-color-dark);
+  border: 1px solid var(--border-color-dark-two);
   text-align: center;
   display: block;
   margin-bottom: 20px;
@@ -3603,7 +3603,7 @@ body .enabled_custom_title .title_page .main_tit {
 
 .crt_mobile_menu-visible .crt_mobile_menu .menu-box {
   opacity: 1;
-  background: #321F65;
+  background: var(--color-white);
   visibility: visible;
   transform: translateX(0);
   transition: all 500ms ease 0ms;
@@ -29920,9 +29920,9 @@ form .wpcf7-response-output {
 }
 
 .footer_widgets.navigation_foo .navigation_foo_inner ul li a:hover {
-  background: linear-gradient(309deg, #B96DF4 0%, #DE84DA 35.42%, rgba(155, 153, 254, 0.90) 70.04%, #5BBBD9 100%);
-  color: transparent;
-  -webkit-background-clip: text;
+  /* background: var(--primary-color-one); */
+  color: var(--primary-color-one);
+  /* -webkit-background-clip: text; */
 }
 
 .footer_widgets.navigation_foo.style_two .fo_wid_title {
@@ -30219,7 +30219,7 @@ form .wpcf7-response-output {
 }
 
 .foo_subscribe.style_one .shortcodes input[type="submit"] {
-  background: var(--text-color-light);
+  background: var(--primary-color-three);
   position: absolute;
   width: auto;
   height: 45px;
@@ -34357,7 +34357,7 @@ body.side_menu_toggled .style-switcher {
 
   .crt_mobile_menu .menu-box {
     width: 90%;
-    color: #fff;
+    color: var(--border-color-dark-two);
   }
 
   .account_dashboard_cm {

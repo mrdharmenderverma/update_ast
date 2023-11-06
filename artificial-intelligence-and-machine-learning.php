@@ -58,7 +58,7 @@ include_once 'header.php'; ?>
                         <img src="assets/images/service/aiml-img-2.svg" class="img-fluid object-fit-cover" alt="Artificial Intelligences includes">
                     </div>
                 </div>
-                <div class="col-lg-6 col-mc-12">
+                <div class="col-lg-5 offset-lg-1 col-md-12">
                     <div class="title_all_box style_one content_box_cn">
                         <div class="title_sections ">
                             <div class="content_box_cn style_one">

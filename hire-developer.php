@@ -86,7 +86,7 @@ include_once 'header.php'; ?>
                         <div class="col-lg-3 col-md-6"><img src="assets/images/footer/india-img.png" alt="" srcset=""></div>
                         <div class="col-lg-3 col-md-6"><img src="assets/images/footer/england-img.png" alt="" srcset=""></div>
                         <div class="col-lg-3 col-md-6"><img src="assets/images/footer/singapore-img.png" alt="" srcset=""></div>
-                        <div class="col-lg-3 col-md-6"><img src="assets/images/footer/india-img.png" alt="" srcset=""></div>
+                        <div class="col-lg-3 col-md-6"><img src="assets/images/footer/Romania.png" alt="" srcset=""></div>
                     </div>
                 </div>
             </div>            

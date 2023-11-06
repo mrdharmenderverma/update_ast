@@ -57,8 +57,9 @@ include_once 'header.php'; ?>
                                 <!-- <label for="customRange1" class="form-label">Example range</label>
                                 <input type="range" class="form-range" id="customRange1"> -->
                                 <div class="mb-3">
-                                    <label for="InputBudget" class="form-label">Project Budget : </label><input type="text" id="put" placeholder="Example  :   $2000" class="form-control_input">
-                                    <input type="range" min="5000" max="50000" value="50" name="budget" id="get" class="form-control_input" onchange="budgetValue()" required>
+                                    <label for="InputBudget" class="form-label">Project Budget : </label>
+                                    <input type="text" id="put" placeholder="Example  :   $2000" class="form-control_input">
+                                    <input type="range" min="5000" max="50000" value="50" name="budget" id="get" class="form-control_input" onchange="budgetValue()" onmousemove="budgetValue()" required>
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -114,7 +115,7 @@ include_once 'header.php'; ?>
                     <img src="assets\images\footer\england-img.png" alt="">
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-3">
-                    <img src="assets\images\footer\india-img.png" alt="">
+                    <img src="assets\images\footer/Romania.png" alt="">
                 </div>
             </div>
         </div>
@@ -132,11 +133,7 @@ include_once 'header.php'; ?>
     }
 </script>
 
-
-
 <!-- ============Custom Styling =========== -->
-
-
 <style>
     .container {
         display: block;

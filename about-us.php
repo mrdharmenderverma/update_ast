@@ -14,7 +14,7 @@ include_once 'header.php'; ?>
                     <div class="title_all_box style_two dark_color">
                         <div class="title_sections two">
                             <!--===============spacing==============-->
-                            <div class="pd_top_50"></div>
+                            <div class="pd_top_20"></div>
                             <!--===============spacing==============-->
                             <div class="content_box_cn style_one">
                                 <div class="">
@@ -41,6 +41,9 @@ include_once 'header.php'; ?>
 
                 </div>
                 <div class="col-xl-6 col-lg-12">
+                    <!--===============spacing==============-->
+                    <div class="pd_top_20"></div>
+                    <!--===============spacing==============-->
                     <div class="image_boxes style_three">
                         <img src="assets/images/about/about-5.png" class="img-fluid object-fit-cover" alt="image">
                     </div>
@@ -314,10 +317,10 @@ include_once 'header.php'; ?>
             <!--===============spacing==============-->
             <div class="mr_bottom_30"></div>
             <!--===============spacing==============-->
-            
+
             <div class="row">
                 <div class="col-lg-3 col-sm-12 col-md-6 mb-2">
-                    <div class="icon_box_all style_six border rounded-3 text-center">
+                    <div class="icon_box_all style_six border rounded-3 text-center" style="height: 15rem;">
                         <div class="icon_content p-3">
                             <div class="">
                                 <!-- <img src="assets/images/process-icon-im-2.png" class="img-fluid svg_image" alt="icon png"> -->
@@ -332,7 +335,7 @@ include_once 'header.php'; ?>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 col-md-6 mb-2">
-                    <div class="icon_box_all style_six border rounded-3 text-center">
+                    <div class="icon_box_all style_six border rounded-3 text-center" style="height: 15rem;">
                         <div class="icon_content p-3">
                             <div class="">
                                 <!-- <img src="assets/images/process-icon-im-2.png" class="img-fluid svg_image" alt="icon png"> -->
@@ -347,7 +350,22 @@ include_once 'header.php'; ?>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 col-md-6 mb-2">
-                    <div class="icon_box_all style_six border rounded-3 text-center">
+                    <div class="icon_box_all style_six border rounded-3 text-center" style="height: 15rem;">
+                        <div class="icon_content p-3">
+                            <div class="">
+                                <!-- <img src="assets/images/process-icon-im-2.png" class="img-fluid svg_image" alt="icon png"> -->
+                                <img src="assets/images/icons/man-02.png" alt="" class="mb-3">
+                            </div>
+                            <div class="text_box">
+                                <h4> Michele Cucchierato
+                                </h4>
+                                <p>Director &nbsp;</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 col-md-6 mb-2">
+                    <div class="icon_box_all style_six border rounded-3 text-center" style="height: 15rem;">
                         <div class="icon_content p-3">
                             <div class="">
                                 <!-- <img src="assets/images/process-icon-im-2.png" class="img-fluid svg_image" alt="icon png"> -->
@@ -362,7 +380,7 @@ include_once 'header.php'; ?>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 col-md-6 mb-2">
-                    <div class="icon_box_all style_six border rounded-3 text-center">
+                    <div class="icon_box_all style_six border rounded-3 text-center" style="height: 15rem;">
                         <div class="icon_content p-3">
                             <div class="">
                                 <!-- <img src="assets/images/process-icon-im-2.png" class="img-fluid svg_image" alt="icon png"> -->
@@ -377,7 +395,7 @@ include_once 'header.php'; ?>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 col-md-6 mb-2">
-                    <div class="icon_box_all style_six border rounded-3 text-center">
+                    <div class="icon_box_all style_six border rounded-3 text-center" style="height: 15rem;">
                         <div class="icon_content p-3">
                             <div class="">
                                 <!-- <img src="assets/images/process-icon-im-2.png" class="img-fluid svg_image" alt="icon png"> -->

@@ -56,12 +56,12 @@ include_once 'header.php'; ?>
       <!-- spacing -->
       <div class="container">
          <div class="row align-items-center">
-            <div class="col-lg-6 col-mb-6 mb-lg-5 mb-xl-0">
+            <div class="col-lg-6 col-md-12 mb-lg-5 mb-xl-0">
                <div class="image_boxes style_three">
                   <img src="assets/images/service/blockchain-img-2.png" class="img-fluid object-fit-cover" alt="Blockchain Dev includes">
                </div>
             </div>
-            <div class="col-lg-6 col-mc-12">
+            <div class="col-lg-5 offset-lg-1 col-md-12">
                <div class="title_all_box style_one content_box_cn">
                   <div class="title_sections ">
                      <div class="content_box_cn style_one">

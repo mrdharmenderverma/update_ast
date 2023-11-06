@@ -9,84 +9,103 @@
         background-size: contain;
         width: 100%
     }
-    @media(max-width: 1350px){
-        .home_banner_responsive .pd_bottom_80{
+
+    @media(max-width: 1350px) {
+        .home_banner_responsive .pd_bottom_80 {
             padding-bottom: 30px !important;
         }
     }
+
     @media (max-width:1200px) {
-        .hero_bg_img{
+        .hero_bg_img {
             margin-top: 2%;
         }
-        .home_banner_responsive .text-responsive{
+
+        .home_banner_responsive .text-responsive {
             width: 70%;
-        }        
+        }
 
     }
+
     @media (max-width:1024px) {
-        .hero_bg_img{
+        .hero_bg_img {
             margin-top: 5%;
         }
-        .single_banner.style_one{
+
+        .single_banner.style_one {
             padding-top: 40px !important;
         }
     }
+
     @media (max-width:950px) {
-        .hero_bg_img{
+        .hero_bg_img {
             margin-top: 8%;
         }
-        .single_banner.style_one{
+
+        .single_banner.style_one {
             padding-top: 10px !important;
         }
     }
+
     @media (max-width:768px) {
-        .hero_bg_img{
+        .hero_bg_img {
             margin-top: 10%;
         }
-        
-        
+
+
     }
+
     @media (max-width:700px) {
-        .hero_bg_img{
+        .hero_bg_img {
             margin-top: 15%;
         }
-        .home_banner_responsive .text-responsive{
+
+        .home_banner_responsive .text-responsive {
             width: 70%;
         }
-        .home_banner_responsive .text-responsive p{
+
+        .home_banner_responsive .text-responsive p {
             font-size: 1rem;
         }
     }
+
     @media (max-width:600px) {
-        .hero_bg_img{
+        .hero_bg_img {
             margin-top: 20%;
         }
-        .home_banner_responsive .text-responsive{
+
+        .home_banner_responsive .text-responsive {
             width: 100%;
         }
-        
+
     }
+
     @media (max-width:500px) {
-        .hero_bg_img{
-            margin-top: 30%;
+        .hero_bg_img {
+            margin-top: 18%;
         }
-        .home_banner_responsive .text-responsive{
+
+        .home_banner_responsive .text-responsive {
             width: 100%;
         }
-        .home_banner_responsive .slider_content h1{
+
+        .home_banner_responsive .slider_content h1 {
             font-size: 2rem !important;
             line-height: 2.5rem !important;
         }
-        .home_banner_responsive .text-responsive p{
+
+        .home_banner_responsive .text-responsive p {
             font-size: 0.8rem;
         }
-        
+
     }
+
     @media (max-width:400px) {
-        .hero_bg_img{
+        .hero_bg_img {
             margin-top: 35%;
         }
-        .home_banner_responsive .slider_content h1{
+
+        .home_banner_responsive .slider_content h1 {
             font-size: 1.7rem !important;
             line-height: 2.5rem !important;
         }
@@ -185,11 +204,11 @@
                                 </div>
                             </div>
                             <!--===============spacing==============-->
-                            <div class="mr_bottom_20"></div>
+                            <div class="pd_bottom_50"></div>
                             <!--===============spacing==============-->
                         </div>
                         <!--===============spacing==============-->
-                        <div class="mr_bottom_20"></div>
+                        <!-- <div class="mr_bottom_20"></div> -->
                         <!--===============spacing==============-->
                     </div>
                 </div>
@@ -200,11 +219,13 @@
                         </div>
                     </div>
                 </div>
-
+                <!--===============spacing==============-->
+                <!-- <div class="mr_bottom_20"></div> -->
+                <!--===============spacing==============-->
             </div>
         </div>
         <!--===============spacing==============-->
-        <div class="pd_bottom_50"></div>
+        <!-- <div class="pd_bottom_50"></div> -->
         <!--===============spacing==============-->
     </section>
     <!---About End--->
@@ -292,7 +313,7 @@
                                         <div class="icon_content icon_imgs ">
                                             <div class="">
                                                 <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                <img src="assets/images/home/Mobile App.svg" alt="" srcset="" class="img-fluid svg_image">
                                             </div>
                                             <div class="txt_content">
                                                 <h3>Mobile App Development</h3>
@@ -343,7 +364,7 @@
                                         <div class="icon_content icon_imgs ">
                                             <div class="">
                                                 <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                <img src="assets/images/home/AI & Machine.svg" alt="" srcset="" class="img-fluid svg_image">
                                             </div>
                                             <div class="txt_content">
                                                 <h3>AI & Machine Learning</h3>
@@ -394,7 +415,7 @@
                                         <div class="icon_content icon_imgs ">
                                             <div class="">
                                                 <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                <img src="assets/images/home/Website.svg" alt="" srcset="" class="img-fluid svg_image">
                                             </div>
                                             <div class="txt_content">
                                                 <h3>Website Development</h3>
@@ -445,7 +466,7 @@
                                         <div class="icon_content icon_imgs ">
                                             <div class="">
                                                 <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                <img src="assets/images/home/UIUX.svg" alt="" srcset="" class="img-fluid svg_image">
                                             </div>
                                             <div class="txt_content">
                                                 <h3>UI / UX Designing</h3>
@@ -496,7 +517,7 @@
                                         <div class="icon_content icon_imgs ">
                                             <div class="">
                                                 <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                <img src="assets/images/home/Graphics.svg" alt="" srcset="" class="img-fluid svg_image">
                                             </div>
                                             <div class="txt_content">
                                                 <h3>Graphics Designing</h3>
@@ -548,7 +569,7 @@
                                         <div class="icon_content icon_imgs ">
                                             <div class="">
                                                 <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                <img src="assets/images/home/Block Chain.svg" alt="" srcset="" class="img-fluid svg_image">
                                             </div>
                                             <div class="txt_content">
                                                 <h3>Block Chain Development</h3>
@@ -600,7 +621,7 @@
                                         <div class="icon_content icon_imgs ">
                                             <div class="">
                                                 <!-- <img src="assets/images/icon-img-n-1.png" class="img-fluid svg_image" alt="icon png"> -->
-                                                <img src="assets/images/home/Software.svg" alt="" srcset="" class="img-fluid svg_image">
+                                                <img src="assets/images/home/Cybersecurity.svg" alt="" srcset="" class="img-fluid svg_image">
                                             </div>
                                             <div class="txt_content">
                                                 <h3>Cybersecurity Solutions</h3>
@@ -670,7 +691,7 @@
         .procedure__step {
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
-            margin: 0 5%;
+            margin: -12px 5%;
         }
 
         .procedure__step:nth-child(2) {
@@ -803,7 +824,7 @@
                     </div>
                 </div>
 
-                <div class="procedure__step my-3">
+                <div class="procedure__step">
                     <div class="row11 row-rev3">
                         <img src="assets/images/home/ri4.png" alt="">
                         <div class="procedure__text">
@@ -1321,7 +1342,7 @@
 
             <div class="row">
                 <div class="col-lg-1"></div>
-                <div class="col-lg-10" style="width: none !important">
+                <div class="col-lg-10" style="width: 100% !important">
                     <div class="testimonial_sec position-relative style_v2_one">
                         <div class="swiper-container swiper-initialized swiper-horizontal swiper-free-mode swiper-backface-hidden" data-swiper='{
                           "autoplay": {
@@ -1361,53 +1382,56 @@
                         }'>
                             <div class="swiper-wrapper" id="swiper-wrapper-8214785ae42b4e74" aria-live="off" style="
                             transition-duration: 0ms;
-                            transform: translate3d(-1860px, 0px, 0px);
+                            transform: translate3d(-2240px, 0px, 0px);
                           ">
                                 <div class="swiper-slide swiper-slide-next" role="group" aria-label="1 / 3" data-swiper-slide-index="0" style="width: 920px; margin-right: 10px">
                                     <div class="testimonial_box clearfix">
                                         <div class="image">
                                             <img src="assets/images//portfolio/Xam Idea App.webp" alt="image" />
                                         </div>
-                                        <div class="authour_details">
-                                            <div class="service_content icon_yes" style="
-                                    display: flex;
-                                    justify-content: space-between;
-                                  ">
-                                                <div class="col-md-8 col-sm-6" style="width: 80% !important">
-                                                    <h4 class="title_service mb-3">
-                                                        Xam Idea Application
-                                                    </h4>
-                                                    <p class="short_desc ">Xam idea is a comprehensive exam
-                                                        preparation system for secondary and senior classes. It is
-                                                        strictly according to the latest revised CBSE syllabus and
-                                                        examination pattern.</p>
-
+                                        <div class="row border authour_details rounded-3 p-2 bg-white">
+                                            <div class="col-lg-9 col-md-9 col-sm-12">
+                                                <div class="row gutter_15px mt-3">
+                                                    <div class="col-lg-12">
+                                                        <div class="mb-3">
+                                                            <div class="icon_content icon_imgs ">
+                                                                <div class="">
+                                                                    <h3>Xam Idea Application</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
-                                                <div class="col-md-4 col-sm-6 devlope_inner_sidebar">
-                                                    <div class="text_box_inner">
-                                                        <img src="assets/images/icons/android.png" alt="Android app" srcset="" style="max-width: 31.67px; height: auto">
-                                                        <p class="card-icon-name" style="font-size: 10px">
-                                                            <a href="#" rel="bookmark">Android</a>
-                                                            </h6>
-                                                    </div>
-                                                    <div class="text_box_inner">
-                                                        <img src="assets/images/icons/iOS.png" alt="Ios app" srcset="" style="max-width: 31.67px; height: auto">
-                                                        <p class="card-icon-name" style="font-size: 10px">
-                                                            <a href="#" rel="bookmark">IOS</a>
-                                                            </h6>
-                                                    </div>
-                                                    <div class="text_box_inner">
-                                                        <img src="assets/images/icons/kotlin.png" alt="Flutter app" srcset="" style="max-width: 31.67px; height: auto">
-                                                        <p class="card-icon-name" style="font-size: 10px">
-                                                            <a href="#" rel="bookmark">Kotlin</a>
-                                                            </h6>
-                                                    </div>
-                                                    <div class="text_box_inner">
-                                                        <img src="assets/images/icons/java.png" alt="React app" srcset="" style="max-width: 31.67px; height: auto">
-                                                        <p class="card-icon-name" style="font-size: 10px">
-                                                            <a href="#" rel="bookmark">Java</a>
-                                                            </h6>
-                                                    </div>
+                                                <p>Xam idea is a comprehensive exam preparation system for secondary and senior classes. It is strictly according to the latest revised CBSE syllabi and examination pattern.</p>
+                                                <p>Knowledge based questions - to know specific terms, concepts, identify, define information.</p>
+                                                <a href="https://play.google.com/store/search?q=xamidea&amp;c=apps&amp;hl=en-IN" target="_blank" rel="nofollow" class="theme-btn five mb-3">
+                                                    View More<i class="icon-right-arrow"></i>
+                                                </a>
+                                            </div>
+                                            <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center service_card_res services_crd">
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/Android.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">Android App</a>
+                                                    </p>
+                                                </div>
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/iOS.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">IOS App</a>
+                                                    </p>
+                                                </div>
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/Flutter.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">Flutter App</a>
+                                                    </p>
+                                                </div>
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/React.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">React App</a>
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1418,45 +1442,48 @@
                                         <div class="image">
                                             <img src="assets/images/portfolio/PDF-Converter-Pro.png" alt="image" />
                                         </div>
-                                        <div class="authour_details">
-                                            <div class="service_content icon_yes" style="
-                                    display: flex;
-                                    justify-content: space-between;
-                                  ">
-                                                <div class="col-md-7 col-sm-6" style="width: 80% !important">
-                                                    <h4 class="title_service  mb-3">
-                                                        PDF Converter Pro - Convert Al App
-                                                    </h4>
-                                                    <p class="short_desc ">PDF CONVERTER is a simple and
-                                                        amazing conversion quality app and the ultimate file converter
-                                                        for your phone. Easy to use the application to convert your
-                                                        files</p>
+                                        <div class="row border authour_details rounded-3 p-2 bg-white">
+                                            <div class="col-lg-9 col-md-9 col-sm-12">
+                                                <div class="row gutter_15px mt-3">
+                                                    <div class="col-lg-12">
+                                                        <div class="mb-3">
+                                                            <div class="icon_content icon_imgs ">
+                                                                <div class="">
+                                                                    <h3>PDF Converter Pro - Convert Al App</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
-                                                <div class="col-md-4 col-sm-6 devlope_inner_sidebar">
-                                                    <div class="text_box_inner">
-                                                        <img src="assets/images/icons/android.png" alt="Android app" srcset="" style="max-width: 31.67px; height: auto">
-                                                        <p class="card-icon-name" style="font-size: 10px">
-                                                            <a href="#" rel="bookmark">Android</a>
-                                                            </h6>
-                                                    </div>
-                                                    <div class="text_box_inner">
-                                                        <img src="assets/images/icons/iOS.png" alt="Ios app" srcset="" style="max-width: 31.67px; height: auto">
-                                                        <p class="card-icon-name" style="font-size: 10px">
-                                                            <a href="#" rel="bookmark">IOS</a>
-                                                            </h6>
-                                                    </div>
-                                                    <div class="text_box_inner">
-                                                        <img src="assets/images/icons/kotlin.png" alt="Flutter app" srcset="" style="max-width: 31.67px; height: auto">
-                                                        <p class="card-icon-name" style="font-size: 10px">
-                                                            <a href="#" rel="bookmark">Kotlin</a>
-                                                            </h6>
-                                                    </div>
-                                                    <div class="text_box_inner">
-                                                        <img src="assets/images/icons/java.png" alt="React app" srcset="" style="max-width: 31.67px; height: auto">
-                                                        <p class="card-icon-name" style="font-size: 10px">
-                                                            <a href="#" rel="bookmark">Java</a>
-                                                            </h6>
-                                                    </div>
+                                                <p>PDF CONVERTER is a simple and amazing conversion quality app and the ultimate file converter for your phone. Easy to use the application to convert your files or Images to PDF and edit PDFs on your Android devices.</p>
+                                                <a href="https://play.google.com/store/apps/details?id=pdfconverter.imagetopdf.convertpdf&amp;hl=en-IN" rel="nofollow" class="theme-btn five mb-3" target="_blank">
+                                                    View More<i class="icon-right-arrow"></i>
+                                                </a>
+                                            </div>
+                                            <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center service_card_res services_crd">
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/Android.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">Android App</a>
+                                                    </p>
+                                                </div>
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/iOS.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">IOS App</a>
+                                                    </p>
+                                                </div>
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/Flutter.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">Flutter App</a>
+                                                    </p>
+                                                </div>
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/React.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">React App</a>
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1467,7 +1494,52 @@
                                         <div class="image">
                                             <img src="assets/images/portfolio/Global-app-services.png" alt="image" />
                                         </div>
-                                        <div class="authour_details">
+                                        <div class="row border authour_details rounded-3 p-2 bg-white">
+                                            <div class="col-lg-9 col-md-9 col-sm-12">
+                                                <div class="row gutter_15px mt-3">
+                                                    <div class="col-lg-12">
+                                                        <div class="mb-3">
+                                                            <div class="icon_content icon_imgs ">
+                                                                <div class="">
+                                                                    <h3>Global App Services Website</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <p class="mb-5">At Global App Services – A website making company committed to deliver creative &amp; quality solutions by using latest technology and vast experience of our web designers in designing next generation websites.</p>
+                                                <a href="https://www.globalappservices.com/" rel="nofollow" class="theme-btn five mb-3" target="_blank">
+                                                    View More<i class="icon-right-arrow"></i>
+                                                </a>
+                                            </div>
+                                            <div class="col-lg-3 col-md-3 col-sm-12 rounded-3 responsive-services border text-center service_card_res services_crd">
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/HTML.svg" alt="C Language" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">HTML</a>
+                                                    </p>
+                                                </div>
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/CSS.svg" alt="Python" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">CSS</a>
+                                                    </p>
+                                                </div>
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/JavaScript.svg" alt="Java" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">JavaScript</a>
+                                                    </p>
+                                                </div>
+                                                <div class="text_box_inner">
+                                                    <img src="assets/images/home/React.svg" alt="Go Language" srcset="" style="max-width: 31.67px; height: auto">
+                                                    <p class="card-icon-name" style="font-size: 10px">
+                                                        <a href="#" rel="bookmark">React</a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="authour_details">
                                             <div class="service_content icon_yes" style="
                                     display: flex;
                                     justify-content: space-between;
@@ -1507,7 +1579,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>

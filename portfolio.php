@@ -8,7 +8,7 @@ include_once 'header.php'; ?>
     <!--First Section Start-->
     <section class="service-section style_one">
         <!--===============spacing==============-->
-        <div class="pd_bottom_80"></div>
+        <div class="pd_bottom_20"></div>
         <!--===============spacing==============-->
         <div class="container">
             <div class="row mb-4">

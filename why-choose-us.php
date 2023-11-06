@@ -91,7 +91,7 @@
         </div>
         <div class="row">
             <div class="col-lg-4 mb-lg-0 mb-xl-0 mt-3">
-                <div class="rounded-3 p-3 border">
+                <div class="rounded-3 p-3 border" style="height:24rem;">
                     <div class="icon_content icon_centers text-center">
                         <div class="txt_content">
                             <img src="assets/images/home/experience.svg" alt="" class="my-2">
@@ -106,7 +106,7 @@
             </div>
 
             <div class="col-lg-4 mb-lg-0 mb-xl-0 mt-3">
-                <div class="rounded-3 p-3 border">
+                <div class="rounded-3 p-3 border" style="height:24rem;">
                     <div class="icon_content icon_centers text-center">
                         <div class="txt_content">
                             <img src="assets/images/home/Success.svg" alt="" class="my-2">
@@ -120,15 +120,14 @@
                 </div>
             </div>
             <div class="col-lg-4 mb-lg-0 mb-xl-0 mt-3">
-                <div class="rounded-3 p-3 border">
+                <div class="rounded-3 p-3 border" style="height:24rem;">
                     <div class="icon_content icon_centers text-center">
                         <div class="txt_content">
                             <img src="assets/images/home/Reliable.svg" alt="" class="my-2">
                             <h4 class="my-2" style=" font-weight: 500;">We are Reliable</h4>
                             <!-- <img src="assets/images/cal-to-action.jpg" alt=""> -->
-                            <p class="pb-5">
+                            <p class="">
                                 We are committed to delivering high-quality results on time and within budget. We will never leave you hanging.
-
                             </p>
                         </div>
                     </div>
