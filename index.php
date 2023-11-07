@@ -77,7 +77,6 @@
         .home_banner_responsive .text-responsive {
             width: 100%;
         }
-
     }
 
     @media (max-width:500px) {

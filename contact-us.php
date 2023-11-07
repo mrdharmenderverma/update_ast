@@ -37,6 +37,7 @@ include_once 'header.php'; ?>
                                     <input type="number" name="phone" class="form-control_input" placeholder="Enter your phone no." required>
                                 </div>
                             </div>
+
                         </div>
                         <div class="row">
                             <div class="col-md-6">
@@ -47,11 +48,12 @@ include_once 'header.php'; ?>
                             </div>
                             <div class="col-md-6">
                                 <div class="mb-3">
-                                    <label for="InputAddress" class="form-label">Address</label>
-                                    <input type="text" name="address" class="form-control_input" placeholder="Your Address" required>
+                                    <label for="InputEmail" class="form-label">Skype</label>
+                                    <input type="email" name="skype" class="form-control_input" placeholder="Skype" required>
                                 </div>
                             </div>
                         </div>
+
                         <div class="row">
                             <div class="col-md-6">
                                 <!-- <label for="customRange1" class="form-label">Example range</label>
@@ -59,7 +61,22 @@ include_once 'header.php'; ?>
                                 <div class="mb-3">
                                     <label for="InputBudget" class="form-label">Project Budget : </label>
                                     <input type="text" id="put" placeholder="Example  :   $2000" class="form-control_input">
-                                    <input type="range" min="5000" max="50000" value="50" name="budget" id="get" class="form-control_input" onchange="budgetValue()" onmousemove="budgetValue()" required>
+                                    <input type="range" min="1000" max="500000" value="1000" name="budget" id="get" class="form-control_input" onchange="budgetValue()" onmousemove="budgetValue()" required>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="InputAddress" class="form-label">Address</label>
+                                    <input type="text" name="address" class="form-control_input" placeholder="Your Address" required>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label for="InputMessage" class="form-label">Message</label>
+                                    <input type="text" class="form-control_input" name="message" placeholder="Start typing here..." required>
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -72,14 +89,6 @@ include_once 'header.php'; ?>
                                     <input type="checkbox" class="form-check-input" id="CheckBox-2" required>
                                     <label class="form-check-label" for="CheckBox-2">I give consent to the processing of my personal data given in the contact <br> form above as well as receiving commercial
                                         and marketing communications <br> under the terms and conditions of Exoft <a href="policy.php" class="ac-c">Privacy Policy.</a></label>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row" style="margin-top: -50px;">
-                            <div class="col-md-6">
-                                <div class="mb-3">
-                                    <label for="InputMessage" class="form-label">Message</label>
-                                    <input type="text" class="form-control_input" name="message" placeholder="Start typing here..." required>
                                 </div>
                             </div>
                         </div>
@@ -129,6 +138,7 @@ include_once 'header.php'; ?>
 <script>
     function budgetValue() {
         var get = document.getElementById("get").value;
+        get = '$' + get;
         document.getElementById('put').value = get;
     }
 </script>
